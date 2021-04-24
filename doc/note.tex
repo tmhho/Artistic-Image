@@ -1,0 +1,109 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+
+\usepackage{bm}
+\usepackage{amsmath,amsthm,amsfonts,amssymb,amscd}
+\usepackage{mathtools}
+
+\usepackage{fullpage}
+
+\usepackage{enumitem}
+
+\usepackage{mathrsfs}
+\usepackage{wrapfig}
+\usepackage{setspace}
+\usepackage{calc}
+\usepackage{multicol}
+\usepackage{cancel}
+
+\usepackage{amsmath}
+
+\begin{document}
+\setcounter{section}{0}
+\thispagestyle{empty}
+
+\begin{center}
+{\LARGE \bf Note}\\
+\end{center}
+A curve is represented by a finite set of points of cardinal $N$ such that:
+
+\begin{itemize}
+\item The distance between two consecutive points is controlled:
+\[A_1 : x \to (x[2]-x[1], \cdots, x[1]-x[n] \]
+(circular curve, with condition of $x[1]-x[n]$)
+
+\item The acceleration
+\[A_2: x \to (x[2] - x[1], \cdots, x[n] - x[n-1])\]
+(non-circular)
+\end{itemize}
+
+$A_1$ can be represented by the matrix:
+\[\begin{bmatrix}
+    -1 & 1 & 0 & \cdots & 0 \\
+    0 & -1 & 1 & 0 & \cdots & 0 \\
+    \vdots & & & & & \\
+    1 & \cdots & & & & -1
+  \end{bmatrix}\]
+
+To control the distance, we rely on two different types of
+constraints: kinematic constraint and geometrical constraint.
+
+\paragraph{Kinematic constraints.} We choose two constants $c_1$, $c_2$ to
+bound the norm of each entry of:
+
+% \begin{align*}
+%   \| (A_1x)[i] \| & \leq c_1 \\
+%   \| (A^T \cdot A x)[i] \| & \leq c_2
+% \end{align*}
+
+Then the base space we want to optimize on is 
+
+\[ X = \{ x \in \Omega^n, \cdots  \} \]
+
+which is the space of the discrete curve with distance bounded by
+kinematic constraints.
+
+Convex domain.
+
+\paragraph{Geometrical constraints.} These constraints are simply the
+intrinsic property of the curve: length and curvature (basic notions
+of differential geometry, curvature represents how curvy the curve is)
+
+We take an arc-length parametrization of the curve, i.e., a curve is
+represented by a continuous function $s(t) : [0,T] \to \Omega$ with $|
+s^{\prime}(t) | = 1$. So the length of the curve is $T$ and the
+curvature is a function: $[0,T] \to R$ defined as
+\[t \to | s^{\prime \prime}(t) |.\]
+
+% \begin{align*}
+%   \| (A_1 x)[i] \| & = c_1 \\
+
+%   \| (A_2 x)[i] \| & \leq c_2
+% \end{align*}
+
+Non-convex space.
+
+Linear constraints: not important for now
+
+\section{Algorithm}
+Choose $N$, we optimize with $N$ points but with
+constraints, i.e., a discrete subspace $X$ of $\Omega^N$.
+
+That means after computing new value in gradient descent, we need a projection.
+
+Euclidean projector: $\Pi_{X} : \Omega^n \to X$
+
+\[\Pi_{X}(z) = {\rm argmin}_{x \in X} \frac{1}{2} \| x - z \|^2 \]
+
+\[ = {\rm argmin}_{Ax \in Y} \frac{1}{2} \| x - z \|^2 \]
+
+When $X$ is convex, obviously the projection of $z$ is unique.
+
+How to compute the projection?
+
+$Y_1$, $Y_2$ the constraint set:
+\[Y_1 = \{ y \in \mathbb{R}^{n \times 2} \; | \; |y_i| \leq c_1 \forall i \}\]
+
+
+\[(\beta A^T \cdot A + I) \cdot x \]
+\end{document}
