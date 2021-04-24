@@ -1,5 +1,6 @@
-# RenduImage
-Un projet de modélisation de 3MIC, tutoré par M. Alban Gossard
+# Creation of Artistic Images
 
+This is my project in third-year applied maths at INSA Toulouse, supervised by Mr. Alban Gossard.
 
-Étudiants : HO Thi Minh Ha, Younes Loulidi 
+We take as input a grayscale image and aim to create a similar image with some simple effect, for example, continuous line drawing.
+
