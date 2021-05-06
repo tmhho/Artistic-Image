@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import PIL
 import math
+import time 
 
 def convol(a,b):
     return np.fft.ifftshift(np.fft.ifft2(np.fft.fft2(a)*np.fft.fft2(b)))
@@ -206,6 +207,66 @@ def GradDescent(J,gradJ,pini,pi,xgrid,ygrid,itermax,learning_rate =0.1):
             myplot(p,iter)
     # piter=np.array(y)
     return p
+
+def Wolfe_learning_rate(f, gradf, x, d, pi,xgrid,ygrid, s0=5, eps1 = 1e-4, eps2 = 0.99, itermax = 20):
+#     d : search direction
+#     s0 : first approximation of learning rate
+#     0 < esp1 < eps2 < 1
+#     k := 0 ; s− = 0 ; s+ = +∞;
+
+	iter, sn , sp = 0,0, 1e8
+	#     sn, sp are the minorant and majorant of learning rate s
+	grad_x = gradf(x,pi,xgrid,ygrid).ravel()
+	d_1col = d.ravel()
+	f_x = f(x,pi,xgrid,ygrid)
+	s = s0 
+	cond1 = f(x+s*d,pi,xgrid,ygrid) <= f_x + eps1*s*grad_x.T.dot(d_1col)
+	grad_xsd = gradf(x+s*d,pi,xgrid,ygrid).ravel()
+	cond2 = grad_xsd.T.dot(d_1col) >= eps2*grad_x.T.dot(d_1col)
+	print(cond1)
+	print(cond2)
+	while not cond1 or not cond2 :
+		if not cond1: 
+			sp = s
+			s = (sn + sp)/2.
+		elif not cond2:
+			sn = s
+			if sp < 1e8:
+				s = (sn + sp)/2.
+			else:
+				s = 2*s 
+		cond1 = f(x+s*d,pi,xgrid,ygrid) <= f_x + eps1*s*grad_x.T.dot(d_1col)
+		grad_xsd = gradf(x+s*d,pi,xgrid,ygrid).ravel()
+		cond2 = grad_xsd.T.dot(d_1col) >= eps2*grad_x.T.dot(d_1col)
+		iter += 1 
+		if iter > itermax:
+			break
+	return s , iter
+
+def GradDescent_wolfe(J,gradJ,pini,pi,xgrid,ygrid,itermax,learning_rate =0.1): 
+	p = np.copy(pini)
+	# y = [p]
+	eps = 1e-10
+	err = 2*eps
+	iter = 0
+	myplot(p,iter)
+    # plt.savefig('video_img/plot_%03d.png'%iter)
+
+	while err>eps and iter<itermax:
+		t00 = time.process_time()
+		grad = gradJ(p, pi, xgrid,ygrid)
+		t0 = time.process_time()
+		learning_rate = Wolfe_learning_rate(J, gradJ,p, -gradJ(p,pi,xgrid,ygrid),pi,xgrid,ygrid)
+		print("Wolfe_learning_rate calculation time: ", time.process_time() - t0)
+		p = p - learning_rate*grad
+		# y.append(p)
+		err = np.linalg.norm(grad)
+		iter += 1
+		if iter%100==0:
+			myplot(p,iter)
+    # piter=np.array(y)
+		print("GradDescent_wolfe one loop running time: ", time.process_time() -t00)
+	return p
 
 def importIMG(fig, N, show = False):
     img = PIL.Image.open(fig).convert('L')
