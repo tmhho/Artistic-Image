@@ -203,70 +203,111 @@ def GradDescent(J,gradJ,pini,pi,xgrid,ygrid,itermax,learning_rate =0.1):
         # y.append(p)
         err = np.linalg.norm(grad)
         iter += 1
+        if iter%10==0:
+            myplot(p,iter)
+            plt.savefig('../out_put_images/Wolfe_plot_%03d_%f.png'%iter%err)
+        file1 = open("GradDescent.txt","a")#append mode
+        file1.write("Iter: %03d with Erreur: %f\n"%iter%err)
+        file1.close()
+        print(err)
+    # piter=np.array(y)
+    return p, iter 
+
+def Wolfe_learning_rate(f, gradf, x, descent, pi,xgrid,ygrid, step, eps1 = 1e-4, eps2 = 0.99, itermax = 5):
+    eps1 = 1e-4
+    eps2 = 0.99
+    iter,s, sn , sp,d = 0,step,0., np.inf,descent
+    #     sn, sp are the minorant and majorant of learning rate 
+    f_x = f(x,pi,xgrid,ygrid)
+    grad_x = gradf(x,pi,xgrid,ygrid).ravel()
+    d_1col = d.ravel()
+    cond1 = f(x+s*d,pi,xgrid,ygrid) <= f_x + eps1*s*grad_x.T.dot(d_1col)
+    grad_xsd = gradf(x+s*d,pi,xgrid,ygrid).ravel()
+    cond2 = grad_xsd.T.dot(d_1col) >= eps2*grad_x.T.dot(d_1col)
+    while not cond1 or not cond2 :
+        if not cond1: 
+            sp = s
+            s = (sn + sp)/2.
+        else:
+            sn = s
+            if sp < np.inf:
+                s = (sn + sp)/2.
+            else:
+                s = 1.2*s 
+        cond1 = f(x+s*d,pi,xgrid,ygrid) <= f_x + eps1*s*grad_x.T.dot(d_1col)
+        grad_xsd = gradf(x+s*d,pi,xgrid,ygrid).ravel()
+        cond2 = grad_xsd.T.dot(d_1col) >= eps2*grad_x.T.dot(d_1col)
+        iter += 1 
+        print(cond1)
+        print(cond2)
+        print(iter)
+        if iter > itermax:
+            break
+    return s
+
+def GradDescent_wolfe(J,gradJ,pini,pi,xgrid,ygrid,itermax,step =0.1): 
+    p = np.copy(pini)
+    # y = [p]
+    eps = 1e-10
+    err = 2*eps
+    iter = 0
+    myplot(p,iter)
+    # plt.savefig('video_img/plot_%03d.png'%iter)
+
+    while err>eps and iter<itermax:
+        t00 = time.process_time()
+        grad = gradJ(p, pi, xgrid,ygrid)
+        t0 = time.process_time()
+        step =  Wolfe_learning_rate(J, gradJ, p, -gradJ(p,pi,xgrid,ygrid), pi,xgrid,ygrid, step)
+        print("learning_rate :", step)
+        # print("Wolfe_learning_rate calculation time: ", time.process_time() - t0)
+        p = p - step*grad
+        # y.append(p)
+        err = np.linalg.norm(grad)
+        print("gradient: ", err)
+        iter += 1
+        if iter%10==0:
+            # myplot(p,iter)
+            plt.savefig('../out_put_images/Wolfe_plot_%03d_%f.png'%iter%err)
+        file1 = open("GradDescent_wolfe.txt","a")#append mode
+        file1.write("Iter: %03d with Erreur: %f\n"%iter%err)
+        file1.close()
+        # print("GradDescent_wolfe one loop running time: ", time.process_time() -t00)
+    return p, iter 
+
+from scipy.optimize import line_search
+
+def GradDescent_linesearch_scipy(J,gradJ,pini,pi,xgrid,ygrid,itermax,step =0.1): 
+    p = np.copy(pini)
+    # y = [p]
+    eps = 1e-10
+    err = 2*eps
+    iter = 0
+    myplot(p,iter)
+    # plt.savefig('video_img/plot_%03d.png'%iter)
+    def func_J(p):
+        return J(p,pi,xgrid,ygrid)
+    def grad_J(p):
+        return gradJ(p,pi,xgrid,ygrid).ravel()
+    while err>eps and iter<itermax:
+        t00 = time.process_time()
+        grad = gradJ(p, pi, xgrid,ygrid)
+        t0 = time.process_time()
+        # learning_rate = Wolfe_learning_rate(4, oracle_J,p, -gradJ(p,pi,xgrid,ygrid),pi,xgrid,ygrid)
+        # step =  Wolfe_learning_rate(J, gradJ, p, -gradJ(p,pi,xgrid,ygrid), pi,xgrid,ygrid, step)
+        step = line_search(func_J, grad_J, p, -gradJ(p,pi,xgrid,ygrid).ravel())
+        print("learning_rate :", step)
+        # print("Wolfe_learning_rate calculation time: ", time.process_time() - t0)
+        p = p - step*grad
+        # y.append(p)
+        err = np.linalg.norm(grad)
+        print("gradient: ", err)
+        iter += 1
         if iter%100==0:
             myplot(p,iter)
     # piter=np.array(y)
+        # print("GradDescent_wolfe one loop running time: ", time.process_time() -t00)
     return p
-
-def Wolfe_learning_rate(f, gradf, x, d, pi,xgrid,ygrid, s0=5, eps1 = 1e-4, eps2 = 0.99, itermax = 20):
-#     d : search direction
-#     s0 : first approximation of learning rate
-#     0 < esp1 < eps2 < 1
-#     k := 0 ; s− = 0 ; s+ = +∞;
-
-	iter, sn , sp = 0,0, 1e8
-	#     sn, sp are the minorant and majorant of learning rate s
-	grad_x = gradf(x,pi,xgrid,ygrid).ravel()
-	d_1col = d.ravel()
-	f_x = f(x,pi,xgrid,ygrid)
-	s = s0 
-	cond1 = f(x+s*d,pi,xgrid,ygrid) <= f_x + eps1*s*grad_x.T.dot(d_1col)
-	grad_xsd = gradf(x+s*d,pi,xgrid,ygrid).ravel()
-	cond2 = grad_xsd.T.dot(d_1col) >= eps2*grad_x.T.dot(d_1col)
-	print(cond1)
-	print(cond2)
-	while not cond1 or not cond2 :
-		if not cond1: 
-			sp = s
-			s = (sn + sp)/2.
-		elif not cond2:
-			sn = s
-			if sp < 1e8:
-				s = (sn + sp)/2.
-			else:
-				s = 2*s 
-		cond1 = f(x+s*d,pi,xgrid,ygrid) <= f_x + eps1*s*grad_x.T.dot(d_1col)
-		grad_xsd = gradf(x+s*d,pi,xgrid,ygrid).ravel()
-		cond2 = grad_xsd.T.dot(d_1col) >= eps2*grad_x.T.dot(d_1col)
-		iter += 1 
-		if iter > itermax:
-			break
-	return s , iter
-
-def GradDescent_wolfe(J,gradJ,pini,pi,xgrid,ygrid,itermax,learning_rate =0.1): 
-	p = np.copy(pini)
-	# y = [p]
-	eps = 1e-10
-	err = 2*eps
-	iter = 0
-	myplot(p,iter)
-    # plt.savefig('video_img/plot_%03d.png'%iter)
-
-	while err>eps and iter<itermax:
-		t00 = time.process_time()
-		grad = gradJ(p, pi, xgrid,ygrid)
-		t0 = time.process_time()
-		learning_rate = Wolfe_learning_rate(J, gradJ,p, -gradJ(p,pi,xgrid,ygrid),pi,xgrid,ygrid)
-		print("Wolfe_learning_rate calculation time: ", time.process_time() - t0)
-		p = p - learning_rate*grad
-		# y.append(p)
-		err = np.linalg.norm(grad)
-		iter += 1
-		if iter%100==0:
-			myplot(p,iter)
-    # piter=np.array(y)
-		print("GradDescent_wolfe one loop running time: ", time.process_time() -t00)
-	return p
 
 def importIMG(fig, N, show = False):
     img = PIL.Image.open(fig).convert('L')
@@ -277,3 +318,54 @@ def importIMG(fig, N, show = False):
     if show:
         PIL.Image.fromarray(img).show() 
     return img
+
+
+# def ls_wolfe(step, f, gradf, x, descent, pi,xgrid,ygrid):
+#     e1, e2 = 1e-4, 0.99
+#     k, s, s_inf, s_sup, d = 0, step, 0, np.inf, descent
+#     f_x, df_x = f(x,pi,xgrid,ygrid,eps=1e-7), gradf(x,pi,xgrid,ygrid,eps=1e-7).ravel()
+#     f_xplus_sd, df_xplus_sd= f(x + s * d,pi,xgrid,ygrid,eps=1e-7), gradf(x + s * d,pi,xgrid,ygrid,eps=1e-7).ravel()
+#     cd1_OK = f_xplus_sd <= f_x + e1 * s * df_x.T.dot(d.ravel())
+#     cd2_OK = df_xplus_sd.T.dot(d.ravel()) >= e2 * df_x.T.dot(d.ravel())    
+#     while not(cd1_OK and cd2_OK):
+#         if not cd1_OK:
+#             s_sup = s
+#             s = 0.5 * (s_inf + s_sup)
+#             f_x, df_x = f(x,pi,xgrid,ygrid,eps=1e-7), gradf(x,pi,xgrid,ygrid,eps=1e-7).ravel()
+#             cd1_OK = f_xplus_sd <= f_x + e1 * s * df_x.T.dot(d.ravel())
+#         else:
+#             s_inf = s
+#             s = 2 * s if (s_sup == np.inf) else 0.5 * (s_inf + s_sup)
+#             f_xplus_sd, df_xplus_sd = f(x + s * d,pi,xgrid,ygrid,eps=1e-7), gradf(x + s * d,pi,xgrid,ygrid,eps=1e-7).ravel()
+#             cd2_OK = df_xplus_sd.T.dot(d.ravel()) >= e2 * df_x.T.dot(d.ravel()) 
+#         k +=1
+#         print(cd1_OK)
+#         print(cd2_OK)
+#     return s
+
+# def GradDescent_ls_wolfe(J,gradJ,pini,pi,xgrid,ygrid,itermax,step =0.1): 
+#     p = np.copy(pini)
+#     # y = [p]
+#     eps = 1e-10
+#     err = 2*eps
+#     iter = 0
+#     myplot(p,iter)
+#     # plt.savefig('video_img/plot_%03d.png'%iter)
+
+#     while err>eps and iter<itermax:
+#         t00 = time.process_time()
+#         grad = gradJ(p, pi, xgrid,ygrid)
+#         t0 = time.process_time()
+#         step = ls_wolfe(step, J, gradJ, p, -grad, pi,xgrid,ygrid)
+#         print("learning_rate :", step)
+#         # print("Wolfe_learning_rate calculation time: ", time.process_time() - t0)
+#         p = p - step*grad
+#         # y.append(p)
+#         err = np.linalg.norm(grad)
+#         print("gradient: ", err)
+#         iter += 1
+#         if iter%100==0:
+#             myplot(p,iter)
+#     # piter=np.array(y)
+#         # print("GradDescent_wolfe one loop running time: ", time.process_time() -t00)
+#     return p
