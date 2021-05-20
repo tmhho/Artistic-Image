@@ -1,0 +1,1300 @@
+Iter: 001 with Erreur: 0.0127367 
+Iter: 002 with Erreur: 0.0107870 
+Iter: 003 with Erreur: 0.0091007 
+Iter: 004 with Erreur: 0.0077095 
+Iter: 005 with Erreur: 0.0065778 
+Iter: 006 with Erreur: 0.0056574 
+Iter: 007 with Erreur: 0.0049124 
+Iter: 008 with Erreur: 0.0043052 
+Iter: 009 with Erreur: 0.0038060 
+Iter: 010 with Erreur: 0.0033979 
+Iter: 011 with Erreur: 0.0030636 
+Iter: 012 with Erreur: 0.0027861 
+Iter: 013 with Erreur: 0.0025517 
+Iter: 014 with Erreur: 0.0023535 
+Iter: 015 with Erreur: 0.0021867 
+Iter: 016 with Erreur: 0.0020463 
+Iter: 017 with Erreur: 0.0019272 
+Iter: 018 with Erreur: 0.0018247 
+Iter: 019 with Erreur: 0.0017351 
+Iter: 020 with Erreur: 0.0016553 
+Iter: 021 with Erreur: 0.0015829 
+Iter: 022 with Erreur: 0.0015164 
+Iter: 023 with Erreur: 0.0014544 
+Iter: 024 with Erreur: 0.0013962 
+Iter: 025 with Erreur: 0.0013414 
+Iter: 026 with Erreur: 0.0012896 
+Iter: 027 with Erreur: 0.0012406 
+Iter: 028 with Erreur: 0.0011945 
+Iter: 029 with Erreur: 0.0011514 
+Iter: 030 with Erreur: 0.0011111 
+Iter: 031 with Erreur: 0.0010733 
+Iter: 032 with Erreur: 0.0010376 
+Iter: 033 with Erreur: 0.0010037 
+Iter: 034 with Erreur: 0.0009717 
+Iter: 035 with Erreur: 0.0009413 
+Iter: 036 with Erreur: 0.0009122 
+Iter: 037 with Erreur: 0.0008845 
+Iter: 038 with Erreur: 0.0008580 
+Iter: 039 with Erreur: 0.0008328 
+Iter: 040 with Erreur: 0.0008089 
+Iter: 041 with Erreur: 0.0007862 
+Iter: 042 with Erreur: 0.0007644 
+Iter: 043 with Erreur: 0.0007437 
+Iter: 044 with Erreur: 0.0007242 
+Iter: 045 with Erreur: 0.0007059 
+Iter: 046 with Erreur: 0.0006888 
+Iter: 047 with Erreur: 0.0006727 
+Iter: 048 with Erreur: 0.0006578 
+Iter: 049 with Erreur: 0.0006438 
+Iter: 050 with Erreur: 0.0006307 
+Iter: 051 with Erreur: 0.0006183 
+Iter: 052 with Erreur: 0.0006066 
+Iter: 053 with Erreur: 0.0005954 
+Iter: 054 with Erreur: 0.0005848 
+Iter: 055 with Erreur: 0.0005745 
+Iter: 056 with Erreur: 0.0005646 
+Iter: 057 with Erreur: 0.0005551 
+Iter: 058 with Erreur: 0.0005458 
+Iter: 059 with Erreur: 0.0005369 
+Iter: 060 with Erreur: 0.0005283 
+Iter: 061 with Erreur: 0.0005199 
+Iter: 062 with Erreur: 0.0005119 
+Iter: 063 with Erreur: 0.0005039 
+Iter: 064 with Erreur: 0.0004963 
+Iter: 065 with Erreur: 0.0004888 
+Iter: 066 with Erreur: 0.0004815 
+Iter: 067 with Erreur: 0.0004744 
+Iter: 068 with Erreur: 0.0004674 
+Iter: 069 with Erreur: 0.0004606 
+Iter: 070 with Erreur: 0.0004540 
+Iter: 071 with Erreur: 0.0004475 
+Iter: 072 with Erreur: 0.0004412 
+Iter: 073 with Erreur: 0.0004350 
+Iter: 074 with Erreur: 0.0004290 
+Iter: 075 with Erreur: 0.0004231 
+Iter: 076 with Erreur: 0.0004173 
+Iter: 077 with Erreur: 0.0004117 
+Iter: 078 with Erreur: 0.0004061 
+Iter: 079 with Erreur: 0.0004007 
+Iter: 080 with Erreur: 0.0003954 
+Iter: 081 with Erreur: 0.0003902 
+Iter: 082 with Erreur: 0.0003851 
+Iter: 083 with Erreur: 0.0003802 
+Iter: 084 with Erreur: 0.0003755 
+Iter: 085 with Erreur: 0.0003710 
+Iter: 086 with Erreur: 0.0003666 
+Iter: 087 with Erreur: 0.0003624 
+Iter: 088 with Erreur: 0.0003584 
+Iter: 089 with Erreur: 0.0003545 
+Iter: 090 with Erreur: 0.0003508 
+Iter: 091 with Erreur: 0.0003471 
+Iter: 092 with Erreur: 0.0003435 
+Iter: 093 with Erreur: 0.0003400 
+Iter: 094 with Erreur: 0.0003366 
+Iter: 095 with Erreur: 0.0003331 
+Iter: 096 with Erreur: 0.0003298 
+Iter: 097 with Erreur: 0.0003265 
+Iter: 098 with Erreur: 0.0003232 
+Iter: 099 with Erreur: 0.0003199 
+Iter: 100 with Erreur: 0.0003166 
+Iter: 101 with Erreur: 0.0003134 
+Iter: 102 with Erreur: 0.0003101 
+Iter: 103 with Erreur: 0.0003068 
+Iter: 104 with Erreur: 0.0003035 
+Iter: 105 with Erreur: 0.0003003 
+Iter: 106 with Erreur: 0.0002970 
+Iter: 107 with Erreur: 0.0002938 
+Iter: 108 with Erreur: 0.0002905 
+Iter: 109 with Erreur: 0.0002873 
+Iter: 110 with Erreur: 0.0002841 
+Iter: 111 with Erreur: 0.0002809 
+Iter: 112 with Erreur: 0.0002778 
+Iter: 113 with Erreur: 0.0002746 
+Iter: 114 with Erreur: 0.0002716 
+Iter: 115 with Erreur: 0.0002686 
+Iter: 116 with Erreur: 0.0002656 
+Iter: 117 with Erreur: 0.0002629 
+Iter: 118 with Erreur: 0.0002600 
+Iter: 119 with Erreur: 0.0002573 
+Iter: 120 with Erreur: 0.0002547 
+Iter: 121 with Erreur: 0.0002522 
+Iter: 122 with Erreur: 0.0002493 
+Iter: 123 with Erreur: 0.0002464 
+Iter: 124 with Erreur: 0.0002436 
+Iter: 125 with Erreur: 0.0002410 
+Iter: 126 with Erreur: 0.0002383 
+Iter: 127 with Erreur: 0.0002358 
+Iter: 128 with Erreur: 0.0002333 
+Iter: 129 with Erreur: 0.0002309 
+Iter: 130 with Erreur: 0.0002285 
+Iter: 131 with Erreur: 0.0002261 
+Iter: 132 with Erreur: 0.0002238 
+Iter: 133 with Erreur: 0.0002216 
+Iter: 134 with Erreur: 0.0002192 
+Iter: 135 with Erreur: 0.0002169 
+Iter: 136 with Erreur: 0.0002147 
+Iter: 137 with Erreur: 0.0002125 
+Iter: 138 with Erreur: 0.0002102 
+Iter: 139 with Erreur: 0.0002080 
+Iter: 140 with Erreur: 0.0002058 
+Iter: 141 with Erreur: 0.0002036 
+Iter: 142 with Erreur: 0.0002012 
+Iter: 143 with Erreur: 0.0001990 
+Iter: 144 with Erreur: 0.0001968 
+Iter: 145 with Erreur: 0.0001946 
+Iter: 146 with Erreur: 0.0001923 
+Iter: 147 with Erreur: 0.0001901 
+Iter: 148 with Erreur: 0.0001878 
+Iter: 149 with Erreur: 0.0001856 
+Iter: 150 with Erreur: 0.0001834 
+Iter: 151 with Erreur: 0.0001813 
+Iter: 152 with Erreur: 0.0001792 
+Iter: 153 with Erreur: 0.0001771 
+Iter: 154 with Erreur: 0.0001750 
+Iter: 155 with Erreur: 0.0001730 
+Iter: 156 with Erreur: 0.0001711 
+Iter: 157 with Erreur: 0.0001692 
+Iter: 158 with Erreur: 0.0001674 
+Iter: 159 with Erreur: 0.0001656 
+Iter: 160 with Erreur: 0.0001638 
+Iter: 161 with Erreur: 0.0001621 
+Iter: 162 with Erreur: 0.0001604 
+Iter: 163 with Erreur: 0.0001588 
+Iter: 164 with Erreur: 0.0001572 
+Iter: 165 with Erreur: 0.0001556 
+Iter: 166 with Erreur: 0.0001538 
+Iter: 167 with Erreur: 0.0001520 
+Iter: 168 with Erreur: 0.0001503 
+Iter: 169 with Erreur: 0.0001487 
+Iter: 170 with Erreur: 0.0001471 
+Iter: 171 with Erreur: 0.0001456 
+Iter: 172 with Erreur: 0.0001439 
+Iter: 173 with Erreur: 0.0001423 
+Iter: 174 with Erreur: 0.0001407 
+Iter: 175 with Erreur: 0.0001392 
+Iter: 176 with Erreur: 0.0001378 
+Iter: 177 with Erreur: 0.0001362 
+Iter: 178 with Erreur: 0.0001347 
+Iter: 179 with Erreur: 0.0001332 
+Iter: 180 with Erreur: 0.0001318 
+Iter: 181 with Erreur: 0.0001304 
+Iter: 182 with Erreur: 0.0001291 
+Iter: 183 with Erreur: 0.0001278 
+Iter: 184 with Erreur: 0.0001265 
+Iter: 185 with Erreur: 0.0001252 
+Iter: 186 with Erreur: 0.0001239 
+Iter: 187 with Erreur: 0.0001226 
+Iter: 188 with Erreur: 0.0001214 
+Iter: 189 with Erreur: 0.0001202 
+Iter: 190 with Erreur: 0.0001199 
+Iter: 191 with Erreur: 0.0001199 
+Iter: 192 with Erreur: 0.0001199 
+Iter: 193 with Erreur: 0.0001199 
+Iter: 194 with Erreur: 0.0001199 
+Iter: 195 with Erreur: 0.0001199 
+Iter: 196 with Erreur: 0.0001199 
+Iter: 197 with Erreur: 0.0001199 
+Iter: 198 with Erreur: 0.0001199 
+Iter: 199 with Erreur: 0.0001199 
+Iter: 200 with Erreur: 0.0001199 
+Iter: 201 with Erreur: 0.0001199 
+Iter: 202 with Erreur: 0.0001199 
+Iter: 203 with Erreur: 0.0001199 
+Iter: 204 with Erreur: 0.0001199 
+Iter: 205 with Erreur: 0.0001199 
+Iter: 206 with Erreur: 0.0001199 
+Iter: 207 with Erreur: 0.0001199 
+Iter: 208 with Erreur: 0.0001199 
+Iter: 209 with Erreur: 0.0001199 
+Iter: 210 with Erreur: 0.0001199 
+Iter: 211 with Erreur: 0.0001199 
+Iter: 212 with Erreur: 0.0001199 
+Iter: 213 with Erreur: 0.0001199 
+Iter: 214 with Erreur: 0.0001199 
+Iter: 215 with Erreur: 0.0001199 
+Iter: 216 with Erreur: 0.0001199 
+Iter: 217 with Erreur: 0.0001199 
+Iter: 218 with Erreur: 0.0001199 
+Iter: 219 with Erreur: 0.0001199 
+Iter: 220 with Erreur: 0.0001199 
+Iter: 221 with Erreur: 0.0001199 
+Iter: 222 with Erreur: 0.0001199 
+Iter: 223 with Erreur: 0.0001199 
+Iter: 224 with Erreur: 0.0001199 
+Iter: 225 with Erreur: 0.0001199 
+Iter: 226 with Erreur: 0.0001199 
+Iter: 227 with Erreur: 0.0001199 
+Iter: 228 with Erreur: 0.0001199 
+Iter: 229 with Erreur: 0.0001199 
+Iter: 230 with Erreur: 0.0001199 
+Iter: 231 with Erreur: 0.0001199 
+Iter: 232 with Erreur: 0.0001199 
+Iter: 233 with Erreur: 0.0001199 
+Iter: 234 with Erreur: 0.0001199 
+Iter: 235 with Erreur: 0.0001199 
+Iter: 236 with Erreur: 0.0001199 
+Iter: 237 with Erreur: 0.0001199 
+Iter: 238 with Erreur: 0.0001199 
+Iter: 239 with Erreur: 0.0001199 
+Iter: 240 with Erreur: 0.0001199 
+Iter: 241 with Erreur: 0.0001199 
+Iter: 242 with Erreur: 0.0001199 
+Iter: 243 with Erreur: 0.0001199 
+Iter: 244 with Erreur: 0.0001199 
+Iter: 245 with Erreur: 0.0001199 
+Iter: 246 with Erreur: 0.0001199 
+Iter: 247 with Erreur: 0.0001199 
+Iter: 248 with Erreur: 0.0001199 
+Iter: 249 with Erreur: 0.0001199 
+Iter: 250 with Erreur: 0.0001199 
+Iter: 251 with Erreur: 0.0001199 
+Iter: 252 with Erreur: 0.0001199 
+Iter: 253 with Erreur: 0.0001199 
+Iter: 254 with Erreur: 0.0001199 
+Iter: 255 with Erreur: 0.0001199 
+Iter: 256 with Erreur: 0.0001199 
+Iter: 257 with Erreur: 0.0001199 
+Iter: 258 with Erreur: 0.0001199 
+Iter: 259 with Erreur: 0.0001199 
+Iter: 260 with Erreur: 0.0001199 
+Iter: 261 with Erreur: 0.0001199 
+Iter: 262 with Erreur: 0.0001199 
+Iter: 263 with Erreur: 0.0001199 
+Iter: 264 with Erreur: 0.0001199 
+Iter: 265 with Erreur: 0.0001199 
+Iter: 266 with Erreur: 0.0001199 
+Iter: 267 with Erreur: 0.0001199 
+Iter: 268 with Erreur: 0.0001199 
+Iter: 269 with Erreur: 0.0001199 
+Iter: 270 with Erreur: 0.0001199 
+Iter: 271 with Erreur: 0.0001199 
+Iter: 272 with Erreur: 0.0001199 
+Iter: 273 with Erreur: 0.0001199 
+Iter: 274 with Erreur: 0.0001199 
+Iter: 275 with Erreur: 0.0001199 
+Iter: 276 with Erreur: 0.0001199 
+Iter: 277 with Erreur: 0.0001199 
+Iter: 278 with Erreur: 0.0001199 
+Iter: 279 with Erreur: 0.0001199 
+Iter: 280 with Erreur: 0.0001199 
+Iter: 281 with Erreur: 0.0001199 
+Iter: 282 with Erreur: 0.0001199 
+Iter: 283 with Erreur: 0.0001199 
+Iter: 284 with Erreur: 0.0001199 
+Iter: 285 with Erreur: 0.0001199 
+Iter: 286 with Erreur: 0.0001199 
+Iter: 287 with Erreur: 0.0001199 
+Iter: 288 with Erreur: 0.0001199 
+Iter: 289 with Erreur: 0.0001199 
+Iter: 290 with Erreur: 0.0001199 
+Iter: 291 with Erreur: 0.0001199 
+Iter: 292 with Erreur: 0.0001199 
+Iter: 293 with Erreur: 0.0001199 
+Iter: 294 with Erreur: 0.0001199 
+Iter: 295 with Erreur: 0.0001199 
+Iter: 296 with Erreur: 0.0001199 
+Iter: 297 with Erreur: 0.0001199 
+Iter: 298 with Erreur: 0.0001199 
+Iter: 299 with Erreur: 0.0001199 
+Iter: 300 with Erreur: 0.0001199 
+Iter: 001 Erreur: 0.0125371 runningtime 2.431 
+Iter: 002 Erreur: 0.0109344 runningtime 2.390 
+Iter: 003 Erreur: 0.0095762 runningtime 2.435 
+Iter: 004 Erreur: 0.0084198 runningtime 2.425 
+Iter: 005 Erreur: 0.0074252 runningtime 2.380 
+Iter: 006 Erreur: 0.0065716 runningtime 2.336 
+Iter: 007 Erreur: 0.0058430 runningtime 2.332 
+Iter: 008 Erreur: 0.0052183 runningtime 2.336 
+Iter: 009 Erreur: 0.0046774 runningtime 2.335 
+Iter: 010 Erreur: 0.0042172 runningtime 2.386 
+Iter: 011 Erreur: 0.0038287 runningtime 2.344 
+Iter: 012 Erreur: 0.0034997 runningtime 2.339 
+Iter: 013 Erreur: 0.0032163 runningtime 2.332 
+Iter: 014 Erreur: 0.0029651 runningtime 2.321 
+Iter: 015 Erreur: 0.0027390 runningtime 2.389 
+Iter: 016 Erreur: 0.0025381 runningtime 2.335 
+Iter: 017 Erreur: 0.0023612 runningtime 2.332 
+Iter: 018 Erreur: 0.0022059 runningtime 2.331 
+Iter: 019 Erreur: 0.0020689 runningtime 6.523 
+Iter: 020 Erreur: 0.0020669 runningtime 6.572 
+Iter: 021 Erreur: 0.0020669 runningtime 6.548 
+Iter: 022 Erreur: 0.0020669 runningtime 6.554 
+Iter: 023 Erreur: 0.0020669 runningtime 6.545 
+Iter: 024 Erreur: 0.0020669 runningtime 6.675 
+Iter: 025 Erreur: 0.0020669 runningtime 6.791 
+Iter: 026 Erreur: 0.0020669 runningtime 6.642 
+Iter: 027 Erreur: 0.0020669 runningtime 6.664 
+Iter: 028 Erreur: 0.0020669 runningtime 6.540 
+Iter: 029 Erreur: 0.0020669 runningtime 6.396 
+Iter: 030 Erreur: 0.0020669 runningtime 6.544 
+Iter: 031 Erreur: 0.0020669 runningtime 6.376 
+Iter: 032 Erreur: 0.0020669 runningtime 6.370 
+Iter: 033 Erreur: 0.0020669 runningtime 6.361 
+Iter: 034 Erreur: 0.0020669 runningtime 6.346 
+Iter: 035 Erreur: 0.0020669 runningtime 6.389 
+Iter: 036 Erreur: 0.0020669 runningtime 6.355 
+Iter: 037 Erreur: 0.0020669 runningtime 6.368 
+Iter: 038 Erreur: 0.0020669 runningtime 6.379 
+Iter: 039 Erreur: 0.0020669 runningtime 6.391 
+Iter: 040 Erreur: 0.0020669 runningtime 6.409 
+Iter: 041 Erreur: 0.0020669 runningtime 6.335 
+Iter: 042 Erreur: 0.0020669 runningtime 6.476 
+Iter: 043 Erreur: 0.0020669 runningtime 6.469 
+Iter: 044 Erreur: 0.0020669 runningtime 6.365 
+Iter: 045 Erreur: 0.0020669 runningtime 6.507 
+Iter: 046 Erreur: 0.0020669 runningtime 6.576 
+Iter: 047 Erreur: 0.0020669 runningtime 6.611 
+Iter: 048 Erreur: 0.0020669 runningtime 6.582 
+Iter: 049 Erreur: 0.0020669 runningtime 6.611 
+Iter: 050 Erreur: 0.0020669 runningtime 6.646 
+Iter: 051 Erreur: 0.0020669 runningtime 6.554 
+Iter: 052 Erreur: 0.0020669 runningtime 6.396 
+Iter: 053 Erreur: 0.0020669 runningtime 6.703 
+Iter: 054 Erreur: 0.0020669 runningtime 6.658 
+Iter: 055 Erreur: 0.0020669 runningtime 6.391 
+Iter: 056 Erreur: 0.0020669 runningtime 6.329 
+Iter: 057 Erreur: 0.0020669 runningtime 6.321 
+Iter: 058 Erreur: 0.0020669 runningtime 6.328 
+Iter: 059 Erreur: 0.0020669 runningtime 6.315 
+Iter: 060 Erreur: 0.0020669 runningtime 6.348 
+Iter: 061 Erreur: 0.0020669 runningtime 6.553 
+Iter: 062 Erreur: 0.0020669 runningtime 6.529 
+Iter: 063 Erreur: 0.0020669 runningtime 6.590 
+Iter: 064 Erreur: 0.0020669 runningtime 6.484 
+Iter: 065 Erreur: 0.0020669 runningtime 6.373 
+Iter: 066 Erreur: 0.0020669 runningtime 6.340 
+Iter: 067 Erreur: 0.0020669 runningtime 6.540 
+Iter: 068 Erreur: 0.0020669 runningtime 6.427 
+Iter: 069 Erreur: 0.0020669 runningtime 6.620 
+Iter: 070 Erreur: 0.0020669 runningtime 6.746 
+Iter: 071 Erreur: 0.0020669 runningtime 6.479 
+Iter: 072 Erreur: 0.0020669 runningtime 6.509 
+Iter: 073 Erreur: 0.0020669 runningtime 6.457 
+Iter: 074 Erreur: 0.0020669 runningtime 6.513 
+Iter: 075 Erreur: 0.0020669 runningtime 6.526 
+Iter: 076 Erreur: 0.0020669 runningtime 6.389 
+Iter: 077 Erreur: 0.0020669 runningtime 6.330 
+Iter: 078 Erreur: 0.0020669 runningtime 6.331 
+Iter: 079 Erreur: 0.0020669 runningtime 6.349 
+Iter: 080 Erreur: 0.0020669 runningtime 6.783 
+Iter: 081 Erreur: 0.0020669 runningtime 6.660 
+Iter: 082 Erreur: 0.0020669 runningtime 6.674 
+Iter: 083 Erreur: 0.0020669 runningtime 6.733 
+Iter: 084 Erreur: 0.0020669 runningtime 6.540 
+Iter: 085 Erreur: 0.0020669 runningtime 6.581 
+Iter: 086 Erreur: 0.0020669 runningtime 6.519 
+Iter: 087 Erreur: 0.0020669 runningtime 6.523 
+Iter: 088 Erreur: 0.0020669 runningtime 6.526 
+Iter: 089 Erreur: 0.0020669 runningtime 6.529 
+Iter: 090 Erreur: 0.0020669 runningtime 6.570 
+Iter: 091 Erreur: 0.0020669 runningtime 6.519 
+Iter: 092 Erreur: 0.0020669 runningtime 6.501 
+Iter: 093 Erreur: 0.0020669 runningtime 6.489 
+Iter: 094 Erreur: 0.0020669 runningtime 6.493 
+Iter: 095 Erreur: 0.0020669 runningtime 6.542 
+Iter: 096 Erreur: 0.0020669 runningtime 6.486 
+Iter: 097 Erreur: 0.0020669 runningtime 6.485 
+Iter: 098 Erreur: 0.0020669 runningtime 6.497 
+Iter: 099 Erreur: 0.0020669 runningtime 6.509 
+Iter: 100 Erreur: 0.0020669 runningtime 6.574 
+Iter: 101 Erreur: 0.0020669 runningtime 6.526 
+Iter: 102 Erreur: 0.0020669 runningtime 6.531 
+Iter: 103 Erreur: 0.0020669 runningtime 6.522 
+Iter: 104 Erreur: 0.0020669 runningtime 6.539 
+Iter: 105 Erreur: 0.0020669 runningtime 6.587 
+Iter: 106 Erreur: 0.0020669 runningtime 6.539 
+Iter: 107 Erreur: 0.0020669 runningtime 6.520 
+Iter: 108 Erreur: 0.0020669 runningtime 6.533 
+Iter: 109 Erreur: 0.0020669 runningtime 6.518 
+Iter: 110 Erreur: 0.0020669 runningtime 6.559 
+Iter: 111 Erreur: 0.0020669 runningtime 6.531 
+Iter: 112 Erreur: 0.0020669 runningtime 6.517 
+Iter: 113 Erreur: 0.0020669 runningtime 6.524 
+Iter: 114 Erreur: 0.0020669 runningtime 6.503 
+Iter: 115 Erreur: 0.0020669 runningtime 6.561 
+Iter: 116 Erreur: 0.0020669 runningtime 6.522 
+Iter: 117 Erreur: 0.0020669 runningtime 6.513 
+Iter: 118 Erreur: 0.0020669 runningtime 6.499 
+Iter: 119 Erreur: 0.0020669 runningtime 6.504 
+Iter: 120 Erreur: 0.0020669 runningtime 6.550 
+Iter: 121 Erreur: 0.0020669 runningtime 6.514 
+Iter: 122 Erreur: 0.0020669 runningtime 6.509 
+Iter: 123 Erreur: 0.0020669 runningtime 6.511 
+Iter: 124 Erreur: 0.0020669 runningtime 6.514 
+Iter: 125 Erreur: 0.0020669 runningtime 6.550 
+Iter: 126 Erreur: 0.0020669 runningtime 6.516 
+Iter: 127 Erreur: 0.0020669 runningtime 6.510 
+Iter: 128 Erreur: 0.0020669 runningtime 6.547 
+Iter: 129 Erreur: 0.0020669 runningtime 6.556 
+Iter: 130 Erreur: 0.0020669 runningtime 6.622 
+Iter: 131 Erreur: 0.0020669 runningtime 6.571 
+Iter: 132 Erreur: 0.0020669 runningtime 6.548 
+Iter: 133 Erreur: 0.0020669 runningtime 6.537 
+Iter: 134 Erreur: 0.0020669 runningtime 6.529 
+Iter: 135 Erreur: 0.0020669 runningtime 6.591 
+Iter: 136 Erreur: 0.0020669 runningtime 6.492 
+Iter: 137 Erreur: 0.0020669 runningtime 6.514 
+Iter: 138 Erreur: 0.0020669 runningtime 6.512 
+Iter: 139 Erreur: 0.0020669 runningtime 6.533 
+Iter: 140 Erreur: 0.0020669 runningtime 6.587 
+Iter: 141 Erreur: 0.0020669 runningtime 6.517 
+Iter: 142 Erreur: 0.0020669 runningtime 6.505 
+Iter: 143 Erreur: 0.0020669 runningtime 6.498 
+Iter: 144 Erreur: 0.0020669 runningtime 6.522 
+Iter: 145 Erreur: 0.0020669 runningtime 6.551 
+Iter: 146 Erreur: 0.0020669 runningtime 6.503 
+Iter: 147 Erreur: 0.0020669 runningtime 6.480 
+Iter: 148 Erreur: 0.0020669 runningtime 6.487 
+Iter: 149 Erreur: 0.0020669 runningtime 6.479 
+Iter: 150 Erreur: 0.0020669 runningtime 6.519 
+Iter: 151 Erreur: 0.0020669 runningtime 6.461 
+Iter: 152 Erreur: 0.0020669 runningtime 6.491 
+Iter: 153 Erreur: 0.0020669 runningtime 6.493 
+Iter: 154 Erreur: 0.0020669 runningtime 6.514 
+Iter: 155 Erreur: 0.0020669 runningtime 6.555 
+Iter: 156 Erreur: 0.0020669 runningtime 6.530 
+Iter: 157 Erreur: 0.0020669 runningtime 6.520 
+Iter: 158 Erreur: 0.0020669 runningtime 6.524 
+Iter: 159 Erreur: 0.0020669 runningtime 6.534 
+Iter: 160 Erreur: 0.0020669 runningtime 6.571 
+Iter: 161 Erreur: 0.0020669 runningtime 6.530 
+Iter: 162 Erreur: 0.0020669 runningtime 6.516 
+Iter: 163 Erreur: 0.0020669 runningtime 6.513 
+Iter: 164 Erreur: 0.0020669 runningtime 6.523 
+Iter: 165 Erreur: 0.0020669 runningtime 6.566 
+Iter: 166 Erreur: 0.0020669 runningtime 6.511 
+Iter: 167 Erreur: 0.0020669 runningtime 6.497 
+Iter: 168 Erreur: 0.0020669 runningtime 6.513 
+Iter: 169 Erreur: 0.0020669 runningtime 6.503 
+Iter: 170 Erreur: 0.0020669 runningtime 6.563 
+Iter: 171 Erreur: 0.0020669 runningtime 6.521 
+Iter: 172 Erreur: 0.0020669 runningtime 6.497 
+Iter: 173 Erreur: 0.0020669 runningtime 6.493 
+Iter: 174 Erreur: 0.0020669 runningtime 6.479 
+Iter: 175 Erreur: 0.0020669 runningtime 6.542 
+Iter: 176 Erreur: 0.0020669 runningtime 6.507 
+Iter: 177 Erreur: 0.0020669 runningtime 6.516 
+Iter: 178 Erreur: 0.0020669 runningtime 6.498 
+Iter: 179 Erreur: 0.0020669 runningtime 6.507 
+Iter: 180 Erreur: 0.0020669 runningtime 6.541 
+Iter: 181 Erreur: 0.0020669 runningtime 6.494 
+Iter: 182 Erreur: 0.0020669 runningtime 6.491 
+Iter: 183 Erreur: 0.0020669 runningtime 6.511 
+Iter: 184 Erreur: 0.0020669 runningtime 6.511 
+Iter: 185 Erreur: 0.0020669 runningtime 6.559 
+Iter: 186 Erreur: 0.0020669 runningtime 6.517 
+Iter: 187 Erreur: 0.0020669 runningtime 6.509 
+Iter: 188 Erreur: 0.0020669 runningtime 6.518 
+Iter: 189 Erreur: 0.0020669 runningtime 6.508 
+Iter: 190 Erreur: 0.0020669 runningtime 6.560 
+Iter: 191 Erreur: 0.0020669 runningtime 6.486 
+Iter: 192 Erreur: 0.0020669 runningtime 6.505 
+Iter: 193 Erreur: 0.0020669 runningtime 6.487 
+Iter: 194 Erreur: 0.0020669 runningtime 6.498 
+Iter: 195 Erreur: 0.0020669 runningtime 6.550 
+Iter: 196 Erreur: 0.0020669 runningtime 6.511 
+Iter: 197 Erreur: 0.0020669 runningtime 6.499 
+Iter: 198 Erreur: 0.0020669 runningtime 6.492 
+Iter: 199 Erreur: 0.0020669 runningtime 6.496 
+Iter: 200 Erreur: 0.0020669 runningtime 6.531 
+Iter: 201 Erreur: 0.0020669 runningtime 6.484 
+Iter: 202 Erreur: 0.0020669 runningtime 6.479 
+Iter: 203 Erreur: 0.0020669 runningtime 6.472 
+Iter: 204 Erreur: 0.0020669 runningtime 6.473 
+Iter: 205 Erreur: 0.0020669 runningtime 6.513 
+Iter: 206 Erreur: 0.0020669 runningtime 6.470 
+Iter: 207 Erreur: 0.0020669 runningtime 6.479 
+Iter: 208 Erreur: 0.0020669 runningtime 6.468 
+Iter: 209 Erreur: 0.0020669 runningtime 6.486 
+Iter: 210 Erreur: 0.0020669 runningtime 6.563 
+Iter: 211 Erreur: 0.0020669 runningtime 6.505 
+Iter: 212 Erreur: 0.0020669 runningtime 6.515 
+Iter: 213 Erreur: 0.0020669 runningtime 6.492 
+Iter: 214 Erreur: 0.0020669 runningtime 6.492 
+Iter: 215 Erreur: 0.0020669 runningtime 6.557 
+Iter: 216 Erreur: 0.0020669 runningtime 6.524 
+Iter: 217 Erreur: 0.0020669 runningtime 6.509 
+Iter: 218 Erreur: 0.0020669 runningtime 6.491 
+Iter: 219 Erreur: 0.0020669 runningtime 6.505 
+Iter: 220 Erreur: 0.0020669 runningtime 6.547 
+Iter: 221 Erreur: 0.0020669 runningtime 6.506 
+Iter: 222 Erreur: 0.0020669 runningtime 6.493 
+Iter: 223 Erreur: 0.0020669 runningtime 6.520 
+Iter: 224 Erreur: 0.0020669 runningtime 6.511 
+Iter: 225 Erreur: 0.0020669 runningtime 6.564 
+Iter: 226 Erreur: 0.0020669 runningtime 6.495 
+Iter: 227 Erreur: 0.0020669 runningtime 6.497 
+Iter: 228 Erreur: 0.0020669 runningtime 6.498 
+Iter: 229 Erreur: 0.0020669 runningtime 6.494 
+Iter: 230 Erreur: 0.0020669 runningtime 6.541 
+Iter: 231 Erreur: 0.0020669 runningtime 6.498 
+Iter: 232 Erreur: 0.0020669 runningtime 6.472 
+Iter: 233 Erreur: 0.0020669 runningtime 6.468 
+Iter: 234 Erreur: 0.0020669 runningtime 6.482 
+Iter: 235 Erreur: 0.0020669 runningtime 6.623 
+Iter: 236 Erreur: 0.0020669 runningtime 6.528 
+Iter: 237 Erreur: 0.0020669 runningtime 6.291 
+Iter: 238 Erreur: 0.0020669 runningtime 6.289 
+Iter: 239 Erreur: 0.0020669 runningtime 6.313 
+Iter: 240 Erreur: 0.0020669 runningtime 6.361 
+Iter: 241 Erreur: 0.0020669 runningtime 6.311 
+Iter: 242 Erreur: 0.0020669 runningtime 6.320 
+Iter: 243 Erreur: 0.0020669 runningtime 6.313 
+Iter: 244 Erreur: 0.0020669 runningtime 6.305 
+Iter: 245 Erreur: 0.0020669 runningtime 6.332 
+Iter: 246 Erreur: 0.0020669 runningtime 6.289 
+Iter: 247 Erreur: 0.0020669 runningtime 6.307 
+Iter: 248 Erreur: 0.0020669 runningtime 6.324 
+Iter: 249 Erreur: 0.0020669 runningtime 6.314 
+Iter: 250 Erreur: 0.0020669 runningtime 6.366 
+Iter: 251 Erreur: 0.0020669 runningtime 6.307 
+Iter: 252 Erreur: 0.0020669 runningtime 6.292 
+Iter: 253 Erreur: 0.0020669 runningtime 6.280 
+Iter: 254 Erreur: 0.0020669 runningtime 6.279 
+Iter: 255 Erreur: 0.0020669 runningtime 6.339 
+Iter: 256 Erreur: 0.0020669 runningtime 6.315 
+Iter: 257 Erreur: 0.0020669 runningtime 6.320 
+Iter: 258 Erreur: 0.0020669 runningtime 6.305 
+Iter: 259 Erreur: 0.0020669 runningtime 6.294 
+Iter: 260 Erreur: 0.0020669 runningtime 6.363 
+Iter: 261 Erreur: 0.0020669 runningtime 6.306 
+Iter: 262 Erreur: 0.0020669 runningtime 6.301 
+Iter: 263 Erreur: 0.0020669 runningtime 6.301 
+Iter: 264 Erreur: 0.0020669 runningtime 6.312 
+Iter: 265 Erreur: 0.0020669 runningtime 6.357 
+Iter: 266 Erreur: 0.0020669 runningtime 6.319 
+Iter: 267 Erreur: 0.0020669 runningtime 6.322 
+Iter: 268 Erreur: 0.0020669 runningtime 6.325 
+Iter: 269 Erreur: 0.0020669 runningtime 6.319 
+Iter: 270 Erreur: 0.0020669 runningtime 6.372 
+Iter: 271 Erreur: 0.0020669 runningtime 6.304 
+Iter: 272 Erreur: 0.0020669 runningtime 6.299 
+Iter: 273 Erreur: 0.0020669 runningtime 6.306 
+Iter: 274 Erreur: 0.0020669 runningtime 6.307 
+Iter: 275 Erreur: 0.0020669 runningtime 6.349 
+Iter: 276 Erreur: 0.0020669 runningtime 6.333 
+Iter: 277 Erreur: 0.0020669 runningtime 6.299 
+Iter: 278 Erreur: 0.0020669 runningtime 6.304 
+Iter: 279 Erreur: 0.0020669 runningtime 6.303 
+Iter: 280 Erreur: 0.0020669 runningtime 6.366 
+Iter: 281 Erreur: 0.0020669 runningtime 6.320 
+Iter: 282 Erreur: 0.0020669 runningtime 6.326 
+Iter: 283 Erreur: 0.0020669 runningtime 6.325 
+Iter: 284 Erreur: 0.0020669 runningtime 6.327 
+Iter: 285 Erreur: 0.0020669 runningtime 6.389 
+Iter: 286 Erreur: 0.0020669 runningtime 6.300 
+Iter: 287 Erreur: 0.0020669 runningtime 6.296 
+Iter: 288 Erreur: 0.0020669 runningtime 6.334 
+Iter: 289 Erreur: 0.0020669 runningtime 6.325 
+Iter: 290 Erreur: 0.0020669 runningtime 6.369 
+Iter: 291 Erreur: 0.0020669 runningtime 6.302 
+Iter: 292 Erreur: 0.0020669 runningtime 6.310 
+Iter: 293 Erreur: 0.0020669 runningtime 6.303 
+Iter: 294 Erreur: 0.0020669 runningtime 6.291 
+Iter: 295 Erreur: 0.0020669 runningtime 6.341 
+Iter: 296 Erreur: 0.0020669 runningtime 6.319 
+Iter: 297 Erreur: 0.0020669 runningtime 6.327 
+Iter: 298 Erreur: 0.0020669 runningtime 6.339 
+Iter: 299 Erreur: 0.0020669 runningtime 6.324 
+Iter: 300 Erreur: 0.0020669 runningtime 6.370 
+Iter: 301 Erreur: 0.0020669 runningtime 6.319 
+Iter: 302 Erreur: 0.0020669 runningtime 6.300 
+Iter: 303 Erreur: 0.0020669 runningtime 6.283 
+Iter: 304 Erreur: 0.0020669 runningtime 6.322 
+Iter: 305 Erreur: 0.0020669 runningtime 6.373 
+Iter: 306 Erreur: 0.0020669 runningtime 6.341 
+Iter: 307 Erreur: 0.0020669 runningtime 6.335 
+Iter: 308 Erreur: 0.0020669 runningtime 6.326 
+Iter: 309 Erreur: 0.0020669 runningtime 6.330 
+Iter: 310 Erreur: 0.0020669 runningtime 6.370 
+Iter: 311 Erreur: 0.0020669 runningtime 6.299 
+Iter: 312 Erreur: 0.0020669 runningtime 6.309 
+Iter: 313 Erreur: 0.0020669 runningtime 6.317 
+Iter: 314 Erreur: 0.0020669 runningtime 6.318 
+Iter: 315 Erreur: 0.0020669 runningtime 6.360 
+Iter: 316 Erreur: 0.0020669 runningtime 6.312 
+Iter: 317 Erreur: 0.0020669 runningtime 6.330 
+Iter: 318 Erreur: 0.0020669 runningtime 6.301 
+Iter: 319 Erreur: 0.0020669 runningtime 6.280 
+Iter: 320 Erreur: 0.0020669 runningtime 6.341 
+Iter: 321 Erreur: 0.0020669 runningtime 6.305 
+Iter: 322 Erreur: 0.0020669 runningtime 6.302 
+Iter: 323 Erreur: 0.0020669 runningtime 6.298 
+Iter: 324 Erreur: 0.0020669 runningtime 6.307 
+Iter: 325 Erreur: 0.0020669 runningtime 6.350 
+Iter: 326 Erreur: 0.0020669 runningtime 6.304 
+Iter: 327 Erreur: 0.0020669 runningtime 6.301 
+Iter: 328 Erreur: 0.0020669 runningtime 6.308 
+Iter: 329 Erreur: 0.0020669 runningtime 6.321 
+Iter: 330 Erreur: 0.0020669 runningtime 6.353 
+Iter: 331 Erreur: 0.0020669 runningtime 6.303 
+Iter: 332 Erreur: 0.0020669 runningtime 6.310 
+Iter: 333 Erreur: 0.0020669 runningtime 6.305 
+Iter: 334 Erreur: 0.0020669 runningtime 6.292 
+Iter: 335 Erreur: 0.0020669 runningtime 6.380 
+Iter: 336 Erreur: 0.0020669 runningtime 6.325 
+Iter: 337 Erreur: 0.0020669 runningtime 6.328 
+Iter: 338 Erreur: 0.0020669 runningtime 6.320 
+Iter: 339 Erreur: 0.0020669 runningtime 6.317 
+Iter: 340 Erreur: 0.0020669 runningtime 6.371 
+Iter: 341 Erreur: 0.0020669 runningtime 6.321 
+Iter: 342 Erreur: 0.0020669 runningtime 6.310 
+Iter: 343 Erreur: 0.0020669 runningtime 6.303 
+Iter: 344 Erreur: 0.0020669 runningtime 6.289 
+Iter: 345 Erreur: 0.0020669 runningtime 6.378 
+Iter: 346 Erreur: 0.0020669 runningtime 6.326 
+Iter: 347 Erreur: 0.0020669 runningtime 6.312 
+Iter: 348 Erreur: 0.0020669 runningtime 6.317 
+Iter: 349 Erreur: 0.0020669 runningtime 6.316 
+Iter: 350 Erreur: 0.0020669 runningtime 6.352 
+Iter: 351 Erreur: 0.0020669 runningtime 6.297 
+Iter: 352 Erreur: 0.0020669 runningtime 6.296 
+Iter: 353 Erreur: 0.0020669 runningtime 6.331 
+Iter: 354 Erreur: 0.0020669 runningtime 6.311 
+Iter: 355 Erreur: 0.0020669 runningtime 6.340 
+Iter: 356 Erreur: 0.0020669 runningtime 6.315 
+Iter: 357 Erreur: 0.0020669 runningtime 6.324 
+Iter: 358 Erreur: 0.0020669 runningtime 6.307 
+Iter: 359 Erreur: 0.0020669 runningtime 6.291 
+Iter: 360 Erreur: 0.0020669 runningtime 6.359 
+Iter: 361 Erreur: 0.0020669 runningtime 6.318 
+Iter: 362 Erreur: 0.0020669 runningtime 6.323 
+Iter: 363 Erreur: 0.0020669 runningtime 6.326 
+Iter: 364 Erreur: 0.0020669 runningtime 6.313 
+Iter: 365 Erreur: 0.0020669 runningtime 6.438 
+Iter: 366 Erreur: 0.0020669 runningtime 6.283 
+Iter: 367 Erreur: 0.0020669 runningtime 6.283 
+Iter: 368 Erreur: 0.0020669 runningtime 6.299 
+Iter: 369 Erreur: 0.0020669 runningtime 6.296 
+Iter: 370 Erreur: 0.0020669 runningtime 6.345 
+Iter: 371 Erreur: 0.0020669 runningtime 6.316 
+Iter: 372 Erreur: 0.0020669 runningtime 6.333 
+Iter: 373 Erreur: 0.0020669 runningtime 6.309 
+Iter: 374 Erreur: 0.0020669 runningtime 6.300 
+Iter: 375 Erreur: 0.0020669 runningtime 6.341 
+Iter: 376 Erreur: 0.0020669 runningtime 6.312 
+Iter: 377 Erreur: 0.0020669 runningtime 6.292 
+Iter: 378 Erreur: 0.0020669 runningtime 6.297 
+Iter: 379 Erreur: 0.0020669 runningtime 6.313 
+Iter: 380 Erreur: 0.0020669 runningtime 6.353 
+Iter: 381 Erreur: 0.0020669 runningtime 6.308 
+Iter: 382 Erreur: 0.0020669 runningtime 6.289 
+Iter: 383 Erreur: 0.0020669 runningtime 6.307 
+Iter: 384 Erreur: 0.0020669 runningtime 6.308 
+Iter: 385 Erreur: 0.0020669 runningtime 6.362 
+Iter: 386 Erreur: 0.0020669 runningtime 6.303 
+Iter: 387 Erreur: 0.0020669 runningtime 6.305 
+Iter: 388 Erreur: 0.0020669 runningtime 6.328 
+Iter: 389 Erreur: 0.0020669 runningtime 6.291 
+Iter: 390 Erreur: 0.0020669 runningtime 6.336 
+Iter: 391 Erreur: 0.0020669 runningtime 6.323 
+Iter: 392 Erreur: 0.0020669 runningtime 6.314 
+Iter: 393 Erreur: 0.0020669 runningtime 6.330 
+Iter: 394 Erreur: 0.0020669 runningtime 6.318 
+Iter: 395 Erreur: 0.0020669 runningtime 6.359 
+Iter: 396 Erreur: 0.0020669 runningtime 6.320 
+Iter: 397 Erreur: 0.0020669 runningtime 6.318 
+Iter: 398 Erreur: 0.0020669 runningtime 6.296 
+Iter: 399 Erreur: 0.0020669 runningtime 6.319 
+Iter: 400 Erreur: 0.0020669 runningtime 6.367 
+Iter: 401 Erreur: 0.0020669 runningtime 6.312 
+Iter: 402 Erreur: 0.0020669 runningtime 6.307 
+Iter: 403 Erreur: 0.0020669 runningtime 6.301 
+Iter: 404 Erreur: 0.0020669 runningtime 6.297 
+Iter: 405 Erreur: 0.0020669 runningtime 6.348 
+Iter: 406 Erreur: 0.0020669 runningtime 6.316 
+Iter: 407 Erreur: 0.0020669 runningtime 6.321 
+Iter: 408 Erreur: 0.0020669 runningtime 6.312 
+Iter: 409 Erreur: 0.0020669 runningtime 6.320 
+Iter: 410 Erreur: 0.0020669 runningtime 6.359 
+Iter: 411 Erreur: 0.0020669 runningtime 6.316 
+Iter: 412 Erreur: 0.0020669 runningtime 6.315 
+Iter: 413 Erreur: 0.0020669 runningtime 6.289 
+Iter: 414 Erreur: 0.0020669 runningtime 6.301 
+Iter: 415 Erreur: 0.0020669 runningtime 6.400 
+Iter: 416 Erreur: 0.0020669 runningtime 6.336 
+Iter: 417 Erreur: 0.0020669 runningtime 6.321 
+Iter: 418 Erreur: 0.0020669 runningtime 6.331 
+Iter: 419 Erreur: 0.0020669 runningtime 6.308 
+Iter: 420 Erreur: 0.0020669 runningtime 6.370 
+Iter: 421 Erreur: 0.0020669 runningtime 6.283 
+Iter: 422 Erreur: 0.0020669 runningtime 6.286 
+Iter: 423 Erreur: 0.0020669 runningtime 6.294 
+Iter: 424 Erreur: 0.0020669 runningtime 6.314 
+Iter: 425 Erreur: 0.0020669 runningtime 6.340 
+Iter: 426 Erreur: 0.0020669 runningtime 6.326 
+Iter: 427 Erreur: 0.0020669 runningtime 6.310 
+Iter: 428 Erreur: 0.0020669 runningtime 6.302 
+Iter: 429 Erreur: 0.0020669 runningtime 6.290 
+Iter: 430 Erreur: 0.0020669 runningtime 6.361 
+Iter: 431 Erreur: 0.0020669 runningtime 6.311 
+Iter: 432 Erreur: 0.0020669 runningtime 6.304 
+Iter: 433 Erreur: 0.0020669 runningtime 6.306 
+Iter: 434 Erreur: 0.0020669 runningtime 6.305 
+Iter: 435 Erreur: 0.0020669 runningtime 6.355 
+Iter: 436 Erreur: 0.0020669 runningtime 6.306 
+Iter: 437 Erreur: 0.0020669 runningtime 6.291 
+Iter: 438 Erreur: 0.0020669 runningtime 6.323 
+Iter: 439 Erreur: 0.0020669 runningtime 6.309 
+Iter: 440 Erreur: 0.0020669 runningtime 6.381 
+Iter: 441 Erreur: 0.0020669 runningtime 6.309 
+Iter: 442 Erreur: 0.0020669 runningtime 6.309 
+Iter: 443 Erreur: 0.0020669 runningtime 6.298 
+Iter: 444 Erreur: 0.0020669 runningtime 6.281 
+Iter: 445 Erreur: 0.0020669 runningtime 6.333 
+Iter: 446 Erreur: 0.0020669 runningtime 6.320 
+Iter: 447 Erreur: 0.0020669 runningtime 6.328 
+Iter: 448 Erreur: 0.0020669 runningtime 6.321 
+Iter: 449 Erreur: 0.0020669 runningtime 6.323 
+Iter: 450 Erreur: 0.0020669 runningtime 6.367 
+Iter: 451 Erreur: 0.0020669 runningtime 6.310 
+Iter: 452 Erreur: 0.0020669 runningtime 6.292 
+Iter: 453 Erreur: 0.0020669 runningtime 6.291 
+Iter: 454 Erreur: 0.0020669 runningtime 6.313 
+Iter: 455 Erreur: 0.0020669 runningtime 6.365 
+Iter: 456 Erreur: 0.0020669 runningtime 6.317 
+Iter: 457 Erreur: 0.0020669 runningtime 6.333 
+Iter: 458 Erreur: 0.0020669 runningtime 6.320 
+Iter: 459 Erreur: 0.0020669 runningtime 6.336 
+Iter: 460 Erreur: 0.0020669 runningtime 6.472 
+Iter: 461 Erreur: 0.0020669 runningtime 6.429 
+Iter: 462 Erreur: 0.0020669 runningtime 6.452 
+Iter: 463 Erreur: 0.0020669 runningtime 6.396 
+Iter: 464 Erreur: 0.0020669 runningtime 6.304 
+Iter: 465 Erreur: 0.0020669 runningtime 6.371 
+Iter: 466 Erreur: 0.0020669 runningtime 6.317 
+Iter: 467 Erreur: 0.0020669 runningtime 6.317 
+Iter: 468 Erreur: 0.0020669 runningtime 6.297 
+Iter: 469 Erreur: 0.0020669 runningtime 6.305 
+Iter: 470 Erreur: 0.0020669 runningtime 6.360 
+Iter: 471 Erreur: 0.0020669 runningtime 6.329 
+Iter: 472 Erreur: 0.0020669 runningtime 6.318 
+Iter: 473 Erreur: 0.0020669 runningtime 6.311 
+Iter: 474 Erreur: 0.0020669 runningtime 6.319 
+Iter: 475 Erreur: 0.0020669 runningtime 6.353 
+Iter: 476 Erreur: 0.0020669 runningtime 6.295 
+Iter: 477 Erreur: 0.0020669 runningtime 6.301 
+Iter: 478 Erreur: 0.0020669 runningtime 6.335 
+Iter: 479 Erreur: 0.0020669 runningtime 6.326 
+Iter: 480 Erreur: 0.0020669 runningtime 6.358 
+Iter: 481 Erreur: 0.0020669 runningtime 6.315 
+Iter: 482 Erreur: 0.0020669 runningtime 6.299 
+Iter: 483 Erreur: 0.0020669 runningtime 6.304 
+Iter: 484 Erreur: 0.0020669 runningtime 6.285 
+Iter: 485 Erreur: 0.0020669 runningtime 6.363 
+Iter: 486 Erreur: 0.0020669 runningtime 6.336 
+Iter: 487 Erreur: 0.0020669 runningtime 6.322 
+Iter: 488 Erreur: 0.0020669 runningtime 6.306 
+Iter: 489 Erreur: 0.0020669 runningtime 6.303 
+Iter: 490 Erreur: 0.0020669 runningtime 6.208 
+Iter: 491 Erreur: 0.0020669 runningtime 6.172 
+Iter: 492 Erreur: 0.0020669 runningtime 6.294 
+Iter: 493 Erreur: 0.0020669 runningtime 6.311 
+Iter: 494 Erreur: 0.0020669 runningtime 6.303 
+Iter: 495 Erreur: 0.0020669 runningtime 6.372 
+Iter: 496 Erreur: 0.0020669 runningtime 6.330 
+Iter: 497 Erreur: 0.0020669 runningtime 6.327 
+Iter: 498 Erreur: 0.0020669 runningtime 6.319 
+Iter: 499 Erreur: 0.0020669 runningtime 6.297 
+Iter: 500 Erreur: 0.0020669 runningtime 6.351 
+Iter: 001 Erreur: 0.0092449 runningtime 2.367 
+Iter: 002 Erreur: 0.0080755 runningtime 2.386 
+Iter: 003 Erreur: 0.0070530 runningtime 2.411 
+Iter: 004 Erreur: 0.0061662 runningtime 2.229 
+Iter: 005 Erreur: 0.0054055 runningtime 2.316 
+Iter: 006 Erreur: 0.0047548 runningtime 2.336 
+Iter: 007 Erreur: 0.0041982 runningtime 2.401 
+Iter: 008 Erreur: 0.0037225 runningtime 2.377 
+Iter: 009 Erreur: 0.0033121 runningtime 2.348 
+Iter: 010 Erreur: 0.0029572 runningtime 2.325 
+Iter: 011 Erreur: 0.0026526 runningtime 2.253 
+Iter: 012 Erreur: 0.0023931 runningtime 2.255 
+Iter: 013 Erreur: 0.0021722 runningtime 2.337 
+Iter: 014 Erreur: 0.0019851 runningtime 2.371 
+Iter: 015 Erreur: 0.0018265 runningtime 2.383 
+Iter: 016 Erreur: 0.0016916 runningtime 2.273 
+Iter: 017 Erreur: 0.0015761 runningtime 2.371 
+Iter: 018 Erreur: 0.0014769 runningtime 2.360 
+Iter: 019 Erreur: 0.0013915 runningtime 2.261 
+Iter: 020 Erreur: 0.0013173 runningtime 2.498 
+Iter: 021 Erreur: 0.0012522 runningtime 2.455 
+Iter: 022 Erreur: 0.0011944 runningtime 2.402 
+Iter: 023 Erreur: 0.0011424 runningtime 2.271 
+Iter: 024 Erreur: 0.0010952 runningtime 2.379 
+Iter: 025 Erreur: 0.0010518 runningtime 2.523 
+Iter: 026 Erreur: 0.0010114 runningtime 2.442 
+Iter: 027 Erreur: 0.0009732 runningtime 2.490 
+Iter: 028 Erreur: 0.0009372 runningtime 2.576 
+Iter: 029 Erreur: 0.0009031 runningtime 2.741 
+Iter: 030 Erreur: 0.0008711 runningtime 2.771 
+Iter: 031 Erreur: 0.0008411 runningtime 2.584 
+Iter: 032 Erreur: 0.0008134 runningtime 2.632 
+Iter: 033 Erreur: 0.0007879 runningtime 2.551 
+Iter: 034 Erreur: 0.0007646 runningtime 2.516 
+Iter: 035 Erreur: 0.0007432 runningtime 2.546 
+Iter: 036 Erreur: 0.0007235 runningtime 2.515 
+Iter: 037 Erreur: 0.0007054 runningtime 2.460 
+Iter: 038 Erreur: 0.0006886 runningtime 2.490 
+Iter: 039 Erreur: 0.0006730 runningtime 2.504 
+Iter: 040 Erreur: 0.0006584 runningtime 2.527 
+Iter: 041 Erreur: 0.0006449 runningtime 2.513 
+Iter: 042 Erreur: 0.0006321 runningtime 2.499 
+Iter: 043 Erreur: 0.0006200 runningtime 2.471 
+Iter: 044 Erreur: 0.0006085 runningtime 2.477 
+Iter: 045 Erreur: 0.0005976 runningtime 2.554 
+Iter: 046 Erreur: 0.0005872 runningtime 2.500 
+Iter: 047 Erreur: 0.0005771 runningtime 2.469 
+Iter: 048 Erreur: 0.0005675 runningtime 2.484 
+Iter: 049 Erreur: 0.0005583 runningtime 2.476 
+Iter: 050 Erreur: 0.0005493 runningtime 2.567 
+Iter: 051 Erreur: 0.0005406 runningtime 2.476 
+Iter: 052 Erreur: 0.0005321 runningtime 2.491 
+Iter: 053 Erreur: 0.0005238 runningtime 2.526 
+Iter: 054 Erreur: 0.0005158 runningtime 2.478 
+Iter: 055 Erreur: 0.0005080 runningtime 2.518 
+Iter: 056 Erreur: 0.0005004 runningtime 2.468 
+Iter: 057 Erreur: 0.0004929 runningtime 2.507 
+Iter: 058 Erreur: 0.0004857 runningtime 2.481 
+Iter: 059 Erreur: 0.0004786 runningtime 2.487 
+Iter: 060 Erreur: 0.0004718 runningtime 2.537 
+Iter: 061 Erreur: 0.0004650 runningtime 2.472 
+Iter: 062 Erreur: 0.0004585 runningtime 2.470 
+Iter: 063 Erreur: 0.0004520 runningtime 2.467 
+Iter: 064 Erreur: 0.0004458 runningtime 2.460 
+Iter: 065 Erreur: 0.0004397 runningtime 2.546 
+Iter: 066 Erreur: 0.0004337 runningtime 2.475 
+Iter: 067 Erreur: 0.0004279 runningtime 2.487 
+Iter: 068 Erreur: 0.0004222 runningtime 2.475 
+Iter: 069 Erreur: 0.0004166 runningtime 2.463 
+Iter: 070 Erreur: 0.0004112 runningtime 2.520 
+Iter: 071 Erreur: 0.0004059 runningtime 2.499 
+Iter: 072 Erreur: 0.0004006 runningtime 2.459 
+Iter: 073 Erreur: 0.0003954 runningtime 2.464 
+Iter: 074 Erreur: 0.0003903 runningtime 2.454 
+Iter: 075 Erreur: 0.0003853 runningtime 2.526 
+Iter: 076 Erreur: 0.0003803 runningtime 2.459 
+Iter: 077 Erreur: 0.0003754 runningtime 2.475 
+Iter: 078 Erreur: 0.0003705 runningtime 2.467 
+Iter: 079 Erreur: 0.0003656 runningtime 2.460 
+Iter: 080 Erreur: 0.0003607 runningtime 2.525 
+Iter: 081 Erreur: 0.0003558 runningtime 2.452 
+Iter: 082 Erreur: 0.0003510 runningtime 2.463 
+Iter: 083 Erreur: 0.0003462 runningtime 2.470 
+Iter: 084 Erreur: 0.0003414 runningtime 2.465 
+Iter: 085 Erreur: 0.0003368 runningtime 2.519 
+Iter: 086 Erreur: 0.0003323 runningtime 2.461 
+Iter: 087 Erreur: 0.0003278 runningtime 2.463 
+Iter: 088 Erreur: 0.0003236 runningtime 2.463 
+Iter: 089 Erreur: 0.0003194 runningtime 2.466 
+Iter: 090 Erreur: 0.0003154 runningtime 2.527 
+Iter: 091 Erreur: 0.0003115 runningtime 2.539 
+Iter: 092 Erreur: 0.0003078 runningtime 2.596 
+Iter: 093 Erreur: 0.0003041 runningtime 2.742 
+Iter: 094 Erreur: 0.0003006 runningtime 2.621 
+Iter: 095 Erreur: 0.0002973 runningtime 2.797 
+Iter: 096 Erreur: 0.0002941 runningtime 2.608 
+Iter: 097 Erreur: 0.0002909 runningtime 2.638 
+Iter: 098 Erreur: 0.0002879 runningtime 2.579 
+Iter: 099 Erreur: 0.0002850 runningtime 2.504 
+Iter: 100 Erreur: 0.0002821 runningtime 3.298 
+Iter: 101 Erreur: 0.0002788 runningtime 2.493 
+Iter: 102 Erreur: 0.0002757 runningtime 2.512 
+Iter: 103 Erreur: 0.0002726 runningtime 2.506 
+Iter: 104 Erreur: 0.0002695 runningtime 2.487 
+Iter: 105 Erreur: 0.0002666 runningtime 2.600 
+Iter: 106 Erreur: 0.0002637 runningtime 2.483 
+Iter: 107 Erreur: 0.0002610 runningtime 2.484 
+Iter: 108 Erreur: 0.0002582 runningtime 2.481 
+Iter: 109 Erreur: 0.0002555 runningtime 2.485 
+Iter: 110 Erreur: 0.0002529 runningtime 2.560 
+Iter: 111 Erreur: 0.0002502 runningtime 2.481 
+Iter: 112 Erreur: 0.0002477 runningtime 2.449 
+Iter: 113 Erreur: 0.0002452 runningtime 2.504 
+Iter: 114 Erreur: 0.0002427 runningtime 2.500 
+Iter: 115 Erreur: 0.0002403 runningtime 2.545 
+Iter: 116 Erreur: 0.0002378 runningtime 2.479 
+Iter: 117 Erreur: 0.0002354 runningtime 2.476 
+Iter: 118 Erreur: 0.0002331 runningtime 3.231 
+Iter: 119 Erreur: 0.0002304 runningtime 2.471 
+Iter: 120 Erreur: 0.0002277 runningtime 2.526 
+Iter: 121 Erreur: 0.0002250 runningtime 2.458 
+Iter: 122 Erreur: 0.0002225 runningtime 2.456 
+Iter: 123 Erreur: 0.0002199 runningtime 2.462 
+Iter: 124 Erreur: 0.0002176 runningtime 2.505 
+Iter: 125 Erreur: 0.0002152 runningtime 2.510 
+Iter: 126 Erreur: 0.0002128 runningtime 2.449 
+Iter: 127 Erreur: 0.0002106 runningtime 2.448 
+Iter: 128 Erreur: 0.0002084 runningtime 2.442 
+Iter: 129 Erreur: 0.0002063 runningtime 2.452 
+Iter: 130 Erreur: 0.0002042 runningtime 3.256 
+Iter: 131 Erreur: 0.0002018 runningtime 2.510 
+Iter: 132 Erreur: 0.0001994 runningtime 2.442 
+Iter: 133 Erreur: 0.0001971 runningtime 2.467 
+Iter: 134 Erreur: 0.0001949 runningtime 2.458 
+Iter: 135 Erreur: 0.0001927 runningtime 2.525 
+Iter: 136 Erreur: 0.0001905 runningtime 2.461 
+Iter: 137 Erreur: 0.0001884 runningtime 2.486 
+Iter: 138 Erreur: 0.0001863 runningtime 2.458 
+Iter: 139 Erreur: 0.0001843 runningtime 2.458 
+Iter: 140 Erreur: 0.0001822 runningtime 2.504 
+Iter: 141 Erreur: 0.0001802 runningtime 2.504 
+Iter: 142 Erreur: 0.0001783 runningtime 2.467 
+Iter: 143 Erreur: 0.0001763 runningtime 2.474 
+Iter: 144 Erreur: 0.0001743 runningtime 2.471 
+Iter: 145 Erreur: 0.0001724 runningtime 2.568 
+Iter: 146 Erreur: 0.0001706 runningtime 2.481 
+Iter: 147 Erreur: 0.0001687 runningtime 2.456 
+Iter: 148 Erreur: 0.0001669 runningtime 2.501 
+Iter: 149 Erreur: 0.0001651 runningtime 2.465 
+Iter: 150 Erreur: 0.0001634 runningtime 2.525 
+Iter: 151 Erreur: 0.0001617 runningtime 2.498 
+Iter: 152 Erreur: 0.0001600 runningtime 2.471 
+Iter: 153 Erreur: 0.0001585 runningtime 3.255 
+Iter: 154 Erreur: 0.0001566 runningtime 2.475 
+Iter: 155 Erreur: 0.0001548 runningtime 2.549 
+Iter: 156 Erreur: 0.0001531 runningtime 2.450 
+Iter: 157 Erreur: 0.0001515 runningtime 2.451 
+Iter: 158 Erreur: 0.0001498 runningtime 2.492 
+Iter: 159 Erreur: 0.0001483 runningtime 2.485 
+Iter: 160 Erreur: 0.0001469 runningtime 2.515 
+Iter: 161 Erreur: 0.0001454 runningtime 3.230 
+Iter: 162 Erreur: 0.0001437 runningtime 2.502 
+Iter: 163 Erreur: 0.0001420 runningtime 2.496 
+Iter: 164 Erreur: 0.0001404 runningtime 2.461 
+Iter: 165 Erreur: 0.0001388 runningtime 2.510 
+Iter: 166 Erreur: 0.0001373 runningtime 2.489 
+Iter: 167 Erreur: 0.0001358 runningtime 2.481 
+Iter: 168 Erreur: 0.0001342 runningtime 2.497 
+Iter: 169 Erreur: 0.0001328 runningtime 2.465 
+Iter: 170 Erreur: 0.0001312 runningtime 2.556 
+Iter: 171 Erreur: 0.0001297 runningtime 2.471 
+Iter: 172 Erreur: 0.0001281 runningtime 2.504 
+Iter: 173 Erreur: 0.0001265 runningtime 2.438 
+Iter: 174 Erreur: 0.0001248 runningtime 2.469 
+Iter: 175 Erreur: 0.0001230 runningtime 2.496 
+Iter: 176 Erreur: 0.0001213 runningtime 2.466 
+Iter: 177 Erreur: 0.0001195 runningtime 2.487 
+Iter: 178 Erreur: 0.0001177 runningtime 2.503 
+Iter: 179 Erreur: 0.0001159 runningtime 2.487 
+Iter: 180 Erreur: 0.0001141 runningtime 2.525 
+Iter: 181 Erreur: 0.0001123 runningtime 2.480 
+Iter: 182 Erreur: 0.0001107 runningtime 2.498 
+Iter: 183 Erreur: 0.0001091 runningtime 2.483 
+Iter: 184 Erreur: 0.0001076 runningtime 2.462 
+Iter: 185 Erreur: 0.0001061 runningtime 2.504 
+Iter: 186 Erreur: 0.0001046 runningtime 2.499 
+Iter: 187 Erreur: 0.0001032 runningtime 2.483 
+Iter: 188 Erreur: 0.0001017 runningtime 2.460 
+Iter: 189 Erreur: 0.0001002 runningtime 2.461 
+Iter: 190 Erreur: 0.0000987 runningtime 2.541 
+Iter: 191 Erreur: 0.0000971 runningtime 2.485 
+Iter: 192 Erreur: 0.0000956 runningtime 2.475 
+Iter: 193 Erreur: 0.0000940 runningtime 2.456 
+Iter: 194 Erreur: 0.0000924 runningtime 2.480 
+Iter: 195 Erreur: 0.0000907 runningtime 2.544 
+Iter: 196 Erreur: 0.0000891 runningtime 3.981 
+Iter: 197 Erreur: 0.0000878 runningtime 6.942 
+Iter: 198 Erreur: 0.0000878 runningtime 6.930 
+Iter: 199 Erreur: 0.0000878 runningtime 6.936 
+Iter: 200 Erreur: 0.0000878 runningtime 7.000 
+Iter: 201 Erreur: 0.0000878 runningtime 6.959 
+Iter: 202 Erreur: 0.0000878 runningtime 6.905 
+Iter: 203 Erreur: 0.0000878 runningtime 6.894 
+Iter: 204 Erreur: 0.0000878 runningtime 6.931 
+Iter: 205 Erreur: 0.0000878 runningtime 6.972 
+Iter: 206 Erreur: 0.0000878 runningtime 6.987 
+Iter: 207 Erreur: 0.0000878 runningtime 6.889 
+Iter: 208 Erreur: 0.0000878 runningtime 6.899 
+Iter: 209 Erreur: 0.0000878 runningtime 6.974 
+Iter: 210 Erreur: 0.0000878 runningtime 7.443 
+Iter: 211 Erreur: 0.0000878 runningtime 7.392 
+Iter: 212 Erreur: 0.0000878 runningtime 7.161 
+Iter: 213 Erreur: 0.0000878 runningtime 7.023 
+Iter: 214 Erreur: 0.0000878 runningtime 6.891 
+Iter: 215 Erreur: 0.0000878 runningtime 7.007 
+Iter: 216 Erreur: 0.0000878 runningtime 7.010 
+Iter: 217 Erreur: 0.0000878 runningtime 6.950 
+Iter: 218 Erreur: 0.0000878 runningtime 6.935 
+Iter: 219 Erreur: 0.0000878 runningtime 6.973 
+Iter: 220 Erreur: 0.0000878 runningtime 7.043 
+Iter: 221 Erreur: 0.0000878 runningtime 6.970 
+Iter: 222 Erreur: 0.0000878 runningtime 6.975 
+Iter: 223 Erreur: 0.0000878 runningtime 6.954 
+Iter: 224 Erreur: 0.0000878 runningtime 6.966 
+Iter: 225 Erreur: 0.0000878 runningtime 7.054 
+Iter: 226 Erreur: 0.0000878 runningtime 6.947 
+Iter: 227 Erreur: 0.0000878 runningtime 6.965 
+Iter: 228 Erreur: 0.0000878 runningtime 6.938 
+Iter: 229 Erreur: 0.0000878 runningtime 6.988 
+Iter: 230 Erreur: 0.0000878 runningtime 7.024 
+Iter: 231 Erreur: 0.0000878 runningtime 6.966 
+Iter: 232 Erreur: 0.0000878 runningtime 6.953 
+Iter: 233 Erreur: 0.0000878 runningtime 6.969 
+Iter: 234 Erreur: 0.0000878 runningtime 6.931 
+Iter: 235 Erreur: 0.0000878 runningtime 6.973 
+Iter: 236 Erreur: 0.0000878 runningtime 6.983 
+Iter: 237 Erreur: 0.0000878 runningtime 6.978 
+Iter: 238 Erreur: 0.0000878 runningtime 6.939 
+Iter: 239 Erreur: 0.0000878 runningtime 6.945 
+Iter: 240 Erreur: 0.0000878 runningtime 7.042 
+Iter: 241 Erreur: 0.0000878 runningtime 6.934 
+Iter: 242 Erreur: 0.0000878 runningtime 7.165 
+Iter: 243 Erreur: 0.0000878 runningtime 7.295 
+Iter: 244 Erreur: 0.0000878 runningtime 7.305 
+Iter: 245 Erreur: 0.0000878 runningtime 7.326 
+Iter: 246 Erreur: 0.0000878 runningtime 7.107 
+Iter: 247 Erreur: 0.0000878 runningtime 7.173 
+Iter: 248 Erreur: 0.0000878 runningtime 6.895 
+Iter: 249 Erreur: 0.0000878 runningtime 6.565 
+Iter: 250 Erreur: 0.0000878 runningtime 7.164 
+Iter: 251 Erreur: 0.0000878 runningtime 6.979 
+Iter: 252 Erreur: 0.0000878 runningtime 6.979 
+Iter: 253 Erreur: 0.0000878 runningtime 6.971 
+Iter: 254 Erreur: 0.0000878 runningtime 6.958 
+Iter: 255 Erreur: 0.0000878 runningtime 7.025 
+Iter: 256 Erreur: 0.0000878 runningtime 6.994 
+Iter: 257 Erreur: 0.0000878 runningtime 6.952 
+Iter: 258 Erreur: 0.0000878 runningtime 6.976 
+Iter: 259 Erreur: 0.0000878 runningtime 6.974 
+Iter: 260 Erreur: 0.0000878 runningtime 7.024 
+Iter: 261 Erreur: 0.0000878 runningtime 6.930 
+Iter: 262 Erreur: 0.0000878 runningtime 6.974 
+Iter: 263 Erreur: 0.0000878 runningtime 6.903 
+Iter: 264 Erreur: 0.0000878 runningtime 6.974 
+Iter: 265 Erreur: 0.0000878 runningtime 6.957 
+Iter: 266 Erreur: 0.0000878 runningtime 6.923 
+Iter: 267 Erreur: 0.0000878 runningtime 6.980 
+Iter: 268 Erreur: 0.0000878 runningtime 6.977 
+Iter: 269 Erreur: 0.0000878 runningtime 6.978 
+Iter: 270 Erreur: 0.0000878 runningtime 7.000 
+Iter: 271 Erreur: 0.0000878 runningtime 7.043 
+Iter: 272 Erreur: 0.0000878 runningtime 7.324 
+Iter: 273 Erreur: 0.0000878 runningtime 7.150 
+Iter: 274 Erreur: 0.0000878 runningtime 7.126 
+Iter: 275 Erreur: 0.0000878 runningtime 7.164 
+Iter: 276 Erreur: 0.0000878 runningtime 7.116 
+Iter: 277 Erreur: 0.0000878 runningtime 7.102 
+Iter: 278 Erreur: 0.0000878 runningtime 7.122 
+Iter: 279 Erreur: 0.0000878 runningtime 7.069 
+Iter: 280 Erreur: 0.0000878 runningtime 7.188 
+Iter: 281 Erreur: 0.0000878 runningtime 6.884 
+Iter: 282 Erreur: 0.0000878 runningtime 6.781 
+Iter: 283 Erreur: 0.0000878 runningtime 6.615 
+Iter: 284 Erreur: 0.0000878 runningtime 6.677 
+Iter: 285 Erreur: 0.0000878 runningtime 6.299 
+Iter: 286 Erreur: 0.0000878 runningtime 6.965 
+Iter: 287 Erreur: 0.0000878 runningtime 6.650 
+Iter: 288 Erreur: 0.0000878 runningtime 6.692 
+Iter: 289 Erreur: 0.0000878 runningtime 6.645 
+Iter: 290 Erreur: 0.0000878 runningtime 6.708 
+Iter: 291 Erreur: 0.0000878 runningtime 6.613 
+Iter: 292 Erreur: 0.0000878 runningtime 6.653 
+Iter: 293 Erreur: 0.0000878 runningtime 6.625 
+Iter: 294 Erreur: 0.0000878 runningtime 6.613 
+Iter: 295 Erreur: 0.0000878 runningtime 6.668 
+Iter: 296 Erreur: 0.0000878 runningtime 6.648 
+Iter: 297 Erreur: 0.0000878 runningtime 6.646 
+Iter: 298 Erreur: 0.0000878 runningtime 6.620 
+Iter: 299 Erreur: 0.0000878 runningtime 6.701 
+Iter: 300 Erreur: 0.0000878 runningtime 6.987 
+Iter: 301 Erreur: 0.0000878 runningtime 6.801 
+Iter: 302 Erreur: 0.0000878 runningtime 6.764 
+Iter: 303 Erreur: 0.0000878 runningtime 6.777 
+Iter: 304 Erreur: 0.0000878 runningtime 6.784 
+Iter: 305 Erreur: 0.0000878 runningtime 6.775 
+Iter: 306 Erreur: 0.0000878 runningtime 6.733 
+Iter: 307 Erreur: 0.0000878 runningtime 6.760 
+Iter: 308 Erreur: 0.0000878 runningtime 6.739 
+Iter: 309 Erreur: 0.0000878 runningtime 6.740 
+Iter: 310 Erreur: 0.0000878 runningtime 6.790 
+Iter: 311 Erreur: 0.0000878 runningtime 6.777 
+Iter: 312 Erreur: 0.0000878 runningtime 6.780 
+Iter: 313 Erreur: 0.0000878 runningtime 6.767 
+Iter: 314 Erreur: 0.0000878 runningtime 6.745 
+Iter: 315 Erreur: 0.0000878 runningtime 6.807 
+Iter: 316 Erreur: 0.0000878 runningtime 6.764 
+Iter: 317 Erreur: 0.0000878 runningtime 6.743 
+Iter: 318 Erreur: 0.0000878 runningtime 6.770 
+Iter: 319 Erreur: 0.0000878 runningtime 6.757 
+Iter: 320 Erreur: 0.0000878 runningtime 6.852 
+Iter: 321 Erreur: 0.0000878 runningtime 6.779 
+Iter: 322 Erreur: 0.0000878 runningtime 6.757 
+Iter: 323 Erreur: 0.0000878 runningtime 6.761 
+Iter: 324 Erreur: 0.0000878 runningtime 6.777 
+Iter: 325 Erreur: 0.0000878 runningtime 6.830 
+Iter: 326 Erreur: 0.0000878 runningtime 6.784 
+Iter: 327 Erreur: 0.0000878 runningtime 6.793 
+Iter: 328 Erreur: 0.0000878 runningtime 6.794 
+Iter: 329 Erreur: 0.0000878 runningtime 6.792 
+Iter: 330 Erreur: 0.0000878 runningtime 6.846 
+Iter: 331 Erreur: 0.0000878 runningtime 6.731 
+Iter: 332 Erreur: 0.0000878 runningtime 6.511 
+Iter: 333 Erreur: 0.0000878 runningtime 6.546 
+Iter: 334 Erreur: 0.0000878 runningtime 6.724 
+Iter: 335 Erreur: 0.0000878 runningtime 6.737 
+Iter: 336 Erreur: 0.0000878 runningtime 6.748 
+Iter: 337 Erreur: 0.0000878 runningtime 7.076 
+Iter: 338 Erreur: 0.0000878 runningtime 7.017 
+Iter: 339 Erreur: 0.0000878 runningtime 6.767 
+Iter: 340 Erreur: 0.0000878 runningtime 6.688 
+Iter: 341 Erreur: 0.0000878 runningtime 7.109 
+Iter: 342 Erreur: 0.0000878 runningtime 7.093 
+Iter: 343 Erreur: 0.0000878 runningtime 6.823 
+Iter: 344 Erreur: 0.0000878 runningtime 6.724 
+Iter: 345 Erreur: 0.0000878 runningtime 6.755 
+Iter: 346 Erreur: 0.0000878 runningtime 6.689 
+Iter: 347 Erreur: 0.0000878 runningtime 6.873 
+Iter: 348 Erreur: 0.0000878 runningtime 6.762 
+Iter: 349 Erreur: 0.0000878 runningtime 6.693 
+Iter: 350 Erreur: 0.0000878 runningtime 6.754 
+Iter: 351 Erreur: 0.0000878 runningtime 6.674 
+Iter: 352 Erreur: 0.0000878 runningtime 6.661 
+Iter: 353 Erreur: 0.0000878 runningtime 6.660 
+Iter: 354 Erreur: 0.0000878 runningtime 6.672 
+Iter: 355 Erreur: 0.0000878 runningtime 6.715 
+Iter: 356 Erreur: 0.0000878 runningtime 6.694 
+Iter: 357 Erreur: 0.0000878 runningtime 6.829 
+Iter: 358 Erreur: 0.0000878 runningtime 6.952 
+Iter: 359 Erreur: 0.0000878 runningtime 6.965 
+Iter: 360 Erreur: 0.0000878 runningtime 7.135 
+Iter: 361 Erreur: 0.0000878 runningtime 7.060 
+Iter: 362 Erreur: 0.0000878 runningtime 6.511 
+Iter: 363 Erreur: 0.0000878 runningtime 7.000 
+Iter: 364 Erreur: 0.0000878 runningtime 6.933 
+Iter: 365 Erreur: 0.0000878 runningtime 6.738 
+Iter: 366 Erreur: 0.0000878 runningtime 6.736 
+Iter: 367 Erreur: 0.0000878 runningtime 6.665 
+Iter: 368 Erreur: 0.0000878 runningtime 6.571 
+Iter: 369 Erreur: 0.0000878 runningtime 6.711 
+Iter: 370 Erreur: 0.0000878 runningtime 6.716 
+Iter: 371 Erreur: 0.0000878 runningtime 6.587 
+Iter: 372 Erreur: 0.0000878 runningtime 6.686 
+Iter: 373 Erreur: 0.0000878 runningtime 6.656 
+Iter: 374 Erreur: 0.0000878 runningtime 6.570 
+Iter: 375 Erreur: 0.0000878 runningtime 6.599 
+Iter: 376 Erreur: 0.0000878 runningtime 6.528 
+Iter: 377 Erreur: 0.0000878 runningtime 6.531 
+Iter: 378 Erreur: 0.0000878 runningtime 6.542 
+Iter: 379 Erreur: 0.0000878 runningtime 6.604 
+Iter: 380 Erreur: 0.0000878 runningtime 6.657 
+Iter: 381 Erreur: 0.0000878 runningtime 6.658 
+Iter: 382 Erreur: 0.0000878 runningtime 6.600 
+Iter: 383 Erreur: 0.0000878 runningtime 6.564 
+Iter: 384 Erreur: 0.0000878 runningtime 6.550 
+Iter: 385 Erreur: 0.0000878 runningtime 6.620 
+Iter: 386 Erreur: 0.0000878 runningtime 6.669 
+Iter: 387 Erreur: 0.0000878 runningtime 6.549 
+Iter: 388 Erreur: 0.0000878 runningtime 6.645 
+Iter: 389 Erreur: 0.0000878 runningtime 6.573 
+Iter: 390 Erreur: 0.0000878 runningtime 6.688 
+Iter: 391 Erreur: 0.0000878 runningtime 6.677 
+Iter: 392 Erreur: 0.0000878 runningtime 6.666 
+Iter: 393 Erreur: 0.0000878 runningtime 6.547 
+Iter: 394 Erreur: 0.0000878 runningtime 6.605 
+Iter: 395 Erreur: 0.0000878 runningtime 6.821 
+Iter: 396 Erreur: 0.0000878 runningtime 6.677 
+Iter: 397 Erreur: 0.0000878 runningtime 6.616 
+Iter: 398 Erreur: 0.0000878 runningtime 6.799 
+Iter: 399 Erreur: 0.0000878 runningtime 7.044 
+Iter: 400 Erreur: 0.0000878 runningtime 7.040 
+Iter: 401 Erreur: 0.0000878 runningtime 6.755 
+Iter: 402 Erreur: 0.0000878 runningtime 6.640 
+Iter: 403 Erreur: 0.0000878 runningtime 6.748 
+Iter: 404 Erreur: 0.0000878 runningtime 6.696 
+Iter: 405 Erreur: 0.0000878 runningtime 6.813 
+Iter: 406 Erreur: 0.0000878 runningtime 6.858 
+Iter: 407 Erreur: 0.0000878 runningtime 6.717 
+Iter: 408 Erreur: 0.0000878 runningtime 6.790 
+Iter: 409 Erreur: 0.0000878 runningtime 6.682 
+Iter: 410 Erreur: 0.0000878 runningtime 6.979 
+Iter: 411 Erreur: 0.0000878 runningtime 6.689 
+Iter: 412 Erreur: 0.0000878 runningtime 6.657 
+Iter: 413 Erreur: 0.0000878 runningtime 6.766 
+Iter: 414 Erreur: 0.0000878 runningtime 6.657 
+Iter: 415 Erreur: 0.0000878 runningtime 6.760 
+Iter: 416 Erreur: 0.0000878 runningtime 6.536 
+Iter: 417 Erreur: 0.0000878 runningtime 6.567 
+Iter: 418 Erreur: 0.0000878 runningtime 6.885 
+Iter: 419 Erreur: 0.0000878 runningtime 6.825 
+Iter: 420 Erreur: 0.0000878 runningtime 6.852 
+Iter: 421 Erreur: 0.0000878 runningtime 6.897 
+Iter: 422 Erreur: 0.0000878 runningtime 6.804 
+Iter: 423 Erreur: 0.0000878 runningtime 6.740 
+Iter: 424 Erreur: 0.0000878 runningtime 6.686 
+Iter: 425 Erreur: 0.0000878 runningtime 6.741 
+Iter: 426 Erreur: 0.0000878 runningtime 6.698 
+Iter: 427 Erreur: 0.0000878 runningtime 7.092 
+Iter: 428 Erreur: 0.0000878 runningtime 6.901 
+Iter: 429 Erreur: 0.0000878 runningtime 6.949 
+Iter: 430 Erreur: 0.0000878 runningtime 6.962 
+Iter: 431 Erreur: 0.0000878 runningtime 6.953 
+Iter: 432 Erreur: 0.0000878 runningtime 6.950 
+Iter: 433 Erreur: 0.0000878 runningtime 6.802 
+Iter: 434 Erreur: 0.0000878 runningtime 6.665 
+Iter: 435 Erreur: 0.0000878 runningtime 6.689 
+Iter: 436 Erreur: 0.0000878 runningtime 6.551 
+Iter: 437 Erreur: 0.0000878 runningtime 6.588 
+Iter: 438 Erreur: 0.0000878 runningtime 6.758 
+Iter: 439 Erreur: 0.0000878 runningtime 6.691 
+Iter: 440 Erreur: 0.0000878 runningtime 6.732 
+Iter: 441 Erreur: 0.0000878 runningtime 6.747 
+Iter: 442 Erreur: 0.0000878 runningtime 6.772 
+Iter: 443 Erreur: 0.0000878 runningtime 6.697 
+Iter: 444 Erreur: 0.0000878 runningtime 6.623 
+Iter: 445 Erreur: 0.0000878 runningtime 6.804 
+Iter: 446 Erreur: 0.0000878 runningtime 6.732 
+Iter: 447 Erreur: 0.0000878 runningtime 6.718 
+Iter: 448 Erreur: 0.0000878 runningtime 6.924 
+Iter: 449 Erreur: 0.0000878 runningtime 6.716 
+Iter: 450 Erreur: 0.0000878 runningtime 6.625 
+Iter: 451 Erreur: 0.0000878 runningtime 6.697 
+Iter: 452 Erreur: 0.0000878 runningtime 6.715 
+Iter: 453 Erreur: 0.0000878 runningtime 6.762 
+Iter: 454 Erreur: 0.0000878 runningtime 6.584 
+Iter: 455 Erreur: 0.0000878 runningtime 6.774 
+Iter: 456 Erreur: 0.0000878 runningtime 6.716 
+Iter: 457 Erreur: 0.0000878 runningtime 6.780 
+Iter: 458 Erreur: 0.0000878 runningtime 6.872 
+Iter: 459 Erreur: 0.0000878 runningtime 6.679 
+Iter: 460 Erreur: 0.0000878 runningtime 6.857 
+Iter: 461 Erreur: 0.0000878 runningtime 6.786 
+Iter: 462 Erreur: 0.0000878 runningtime 6.894 
+Iter: 463 Erreur: 0.0000878 runningtime 6.594 
+Iter: 464 Erreur: 0.0000878 runningtime 6.821 
+Iter: 465 Erreur: 0.0000878 runningtime 6.866 
+Iter: 466 Erreur: 0.0000878 runningtime 6.745 
+Iter: 467 Erreur: 0.0000878 runningtime 6.775 
+Iter: 468 Erreur: 0.0000878 runningtime 6.753 
+Iter: 469 Erreur: 0.0000878 runningtime 6.645 
+Iter: 470 Erreur: 0.0000878 runningtime 6.894 
+Iter: 471 Erreur: 0.0000878 runningtime 6.763 
+Iter: 472 Erreur: 0.0000878 runningtime 6.862 
+Iter: 473 Erreur: 0.0000878 runningtime 7.080 
+Iter: 474 Erreur: 0.0000878 runningtime 6.955 
+Iter: 475 Erreur: 0.0000878 runningtime 6.940 
+Iter: 476 Erreur: 0.0000878 runningtime 6.754 
+Iter: 477 Erreur: 0.0000878 runningtime 6.738 
+Iter: 478 Erreur: 0.0000878 runningtime 6.728 
+Iter: 479 Erreur: 0.0000878 runningtime 6.575 
+Iter: 480 Erreur: 0.0000878 runningtime 6.657 
+Iter: 481 Erreur: 0.0000878 runningtime 6.689 
+Iter: 482 Erreur: 0.0000878 runningtime 6.904 
+Iter: 483 Erreur: 0.0000878 runningtime 6.742 
+Iter: 484 Erreur: 0.0000878 runningtime 6.711 
+Iter: 485 Erreur: 0.0000878 runningtime 6.954 
+Iter: 486 Erreur: 0.0000878 runningtime 6.790 
+Iter: 487 Erreur: 0.0000878 runningtime 6.710 
+Iter: 488 Erreur: 0.0000878 runningtime 6.662 
+Iter: 489 Erreur: 0.0000878 runningtime 6.618 
+Iter: 490 Erreur: 0.0000878 runningtime 6.788 
+Iter: 491 Erreur: 0.0000878 runningtime 6.804 
+Iter: 492 Erreur: 0.0000878 runningtime 7.177 
+Iter: 493 Erreur: 0.0000878 runningtime 6.887 
+Iter: 494 Erreur: 0.0000878 runningtime 6.696 
+Iter: 495 Erreur: 0.0000878 runningtime 6.859 
+Iter: 496 Erreur: 0.0000878 runningtime 6.675 
+Iter: 497 Erreur: 0.0000878 runningtime 6.976 
+Iter: 498 Erreur: 0.0000878 runningtime 6.849 
+Iter: 499 Erreur: 0.0000878 runningtime 6.733 
+Iter: 500 Erreur: 0.0000878 runningtime 6.826 
